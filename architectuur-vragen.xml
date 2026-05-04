@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Architectuur Vragen</title>
+    <link>https://legalfiction.github.io/podcast-feeds/architectuur-vragen.xml</link>
+    <atom:link href="https://legalfiction.github.io/podcast-feeds/architectuur-vragen.xml" rel="self" type="application/rss+xml"/>
+    <description>Podcast over architectuur, design en ruimtelijke vraagstukken.</description>
+    <language>nl</language>
+    <itunes:author>Architectuur Vragen</itunes:author>
+    <itunes:summary>Podcast over architectuur, design en ruimtelijke vraagstukken.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Society &amp; Culture"/>
+    <item>
+      <title>Architectuur-vragen</title>
+      <description>Architectuur Vragen — eerste aflevering</description>
+      <pubDate>Sun, 03 May 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://drive.google.com/file/d/1KfUh-FMJ1DYdl-RuPIEUrbd3yAg6JOAD/view</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KfUh-FMJ1DYdl-RuPIEUrbd3yAg6JOAD" length="38526769" type="audio/mp4"/>
+      <itunes:duration>0:25:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Pusher: e-commerce platform in 1 week met AI</title>
+      <description>Pusher: multi-channel productbeheer-platform gebouwd in 1 week met Claude AI</description>
+      <pubDate>Sun, 03 May 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://drive.google.com/file/d/12qhzXfePOgbqSDHYQAiWQDs95Bs75i6c/view</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=12qhzXfePOgbqSDHYQAiWQDs95Bs75i6c" length="46833118" type="audio/mp4"/>
+      <itunes:duration>0:32:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
