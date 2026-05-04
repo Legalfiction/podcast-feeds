@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aldo Overige</title>
+    <link>https://legalfiction.github.io/podcast-feeds/aldo-overige.xml</link>
+    <atom:link href="https://legalfiction.github.io/podcast-feeds/aldo-overige.xml" rel="self" type="application/rss+xml"/>
+    <description>Verzamelpodcast met diverse onderwerpen die Aldo deelt.</description>
+    <language>nl</language>
+    <itunes:author>Aldo Huizinga</itunes:author>
+    <itunes:summary>Verzamelpodcast met diverse onderwerpen die Aldo deelt.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Society &amp; Culture"/>
+
+  </channel>
+</rss>
