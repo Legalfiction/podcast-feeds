@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dwarkesh Patel — Nederlands</title>
+    <link>https://legalfiction.github.io/podcast-feeds/dwarkesh.xml</link>
+    <atom:link href="https://legalfiction.github.io/podcast-feeds/dwarkesh.xml" rel="self" type="application/rss+xml"/>
+    <description>Nederlandstalige versie van de Dwarkesh Patel podcast.</description>
+    <language>nl</language>
+    <itunes:author>Dwarkesh Patel (NL)</itunes:author>
+    <itunes:summary>Nederlandstalige versie van de Dwarkesh Patel podcast.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+
+  </channel>
+</rss>
