@@ -1,15 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Dwarkesh Patel — Nederlands</title>
-    <link>https://legalfiction.github.io/podcast-feeds/dwarkesh.xml</link>
-    <atom:link href="https://legalfiction.github.io/podcast-feeds/dwarkesh.xml" rel="self" type="application/rss+xml"/>
-    <description>Nederlandstalige versie van de Dwarkesh Patel podcast.</description>
-    <language>nl</language>
-    <itunes:author>Dwarkesh Patel (NL)</itunes:author>
-    <itunes:summary>Nederlandstalige versie van de Dwarkesh Patel podcast.</itunes:summary>
-    <itunes:explicit>false</itunes:explicit>
-    <itunes:category text="Technology"/>
-
-  </channel>
+<channel>
+  <title>Dwarkesh Patel — Nederlands</title>
+  <description>Nederlandstalige versie van de Dwarkesh Patel podcast.</description>
+  <language>nl</language>
+  <itunes:author>Dwarkesh Patel (NL)</itunes:author>
+  <itunes:category text="Technology"/>
+  <atom:link href="https://script.google.com/macros/s/AKfycbz6REY4kiXHFkV9qjpq2d6LI0dvAZFOM7CxUcA_gvBvfbyHccMQS1YybRWB08FpYKMpnQ/exec?show=dwarkesh" rel="self" type="application/rss+xml"/>
+  <link>https://script.google.com/macros/s/AKfycbz6REY4kiXHFkV9qjpq2d6LI0dvAZFOM7CxUcA_gvBvfbyHccMQS1YybRWB08FpYKMpnQ/exec?show=dwarkesh</link>
+  <item>
+    <title>Dwarkesh × Reiner Pope — De wiskunde achter hoe LLMs worden getraind</title>
+    <description>Nederlandstalige podcast over het gesprek tussen Dwarkesh Patel en Reiner Pope over de wiskunde achter hoe LLMs worden getraind en aangeboden, training- en inference-economics, en wat je kunt afleiden uit een handvol vergelijkingen</description>
+    <enclosure url="https://drive.google.com/uc?export=download&amp;id=1LmrGGkkwXZ9Ue2IQGWyDXvNzCV_6eOcf&amp;confirm=t" length="44009763" type="audio/mp4"/>
+    <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">dwarkesh-1LmrGGkkwXZ9Ue2IQGWyDXvNzCV_6eOcf</guid>
+    <itunes:duration>0:30:00</itunes:duration>
+  </item>
+  <item>
+    <title>Dwarkesh × Jensen Huang — NVIDIA en de zware industrie achter AI</title>
+    <description>Nederlandstalige podcast over het gesprek tussen Dwarkesh Patel en Jensen Huang (NVIDIA CEO) over TPU-concurrentie, chips voor China, en NVIDIAs supply chain voorsprong</description>
+    <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ThY9b3_BLpBWyWiy6Gq2ZfEixPJ7Ucxa&amp;confirm=t" length="32939937" type="audio/mp4"/>
+    <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">dwarkesh-1ThY9b3_BLpBWyWiy6Gq2ZfEixPJ7Ucxa</guid>
+    <itunes:duration>0:25:00</itunes:duration>
+  </item>
+  <item>
+    <title>Dwarkesh × Michael Nielsen — De menselijke chaos achter wetenschappelijke vooruitgang</title>
+    <description>Nederlandstalige podcast over het gesprek tussen Dwarkesh Patel en Michael Nielsen over hoe wetenschap werkelijk vooruitgang boekt — de echte verhalen achter Einstein, Newton en Darwin</description>
+    <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_FicR9FBaExmjD2MeTGbPLpdDhVCrCuN&amp;confirm=t" length="46826395" type="audio/mp4"/>
+    <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">dwarkesh-1_FicR9FBaExmjD2MeTGbPLpdDhVCrCuN</guid>
+    <itunes:duration>0:30:00</itunes:duration>
+  </item>
+  <item>
+    <title>Dwarkesh × Terence Tao — Kepler, Newton en de ware aard van wiskundige ontdekking</title>
+    <description>Nederlandstalige podcast over het gesprek tussen Dwarkesh Patel en Terence Tao (Fields Medal winnaar) over wiskundige creativiteit, hoe grote ontdekkingen ontstaan, en AI in wiskunde</description>
+    <enclosure url="https://drive.google.com/uc?export=download&amp;id=18-mPiO8l_yrTYnFhBfM_dHaoDyZmEQqn&amp;confirm=t" length="33702895" type="audio/mp4"/>
+    <pubDate>Fri, 20 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">dwarkesh-18-mPiO8l_yrTYnFhBfM_dHaoDyZmEQqn</guid>
+    <itunes:duration>0:25:00</itunes:duration>
+  </item>
+  <item>
+    <title>Dwarkesh × Dylan Patel — Diepgaande analyse van AI-rekenkracht knelpunten</title>
+    <description>Nederlandstalige podcast over het gesprek tussen Dwarkesh Patel en Dylan Patel (SemiAnalysis CEO) over de drie grote knelpunten bij het opschalen van AI-compute: logica, geheugen en stroom</description>
+    <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fizSZAa0QBTzVgMhhV3xdzugVZdQp3-V&amp;confirm=t" length="59384155" type="audio/mp4"/>
+    <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">dwarkesh-1fizSZAa0QBTzVgMhhV3xdzugVZdQp3-V</guid>
+    <itunes:duration>0:30:00</itunes:duration>
+  </item>
+  <item>
+    <title>Dwarkesh × Anthropic — De belangrijkste vraag die niemand over AI stelt</title>
+    <description>Nederlandstalige podcast over Dwarkesh Patels essay over Anthropic en het Department of War conflict, massasurveillance en autonome wapens</description>
+    <enclosure url="https://drive.google.com/uc?export=download&amp;id=1BgaU7j-GPlB1v0q367Drbu2bZm_3mok7&amp;confirm=t" length="31524582" type="audio/mp4"/>
+    <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">dwarkesh-1BgaU7j-GPlB1v0q367Drbu2bZm_3mok7</guid>
+    <itunes:duration>0:25:00</itunes:duration>
+  </item>
+  <item>
+    <title>Dwarkesh × Ada Palmer — Waarom Leonardo een saboteur was, Gutenberg failliet ging en Florence vreemd was</title>
+    <description>Nederlandstalige podcast over het gesprek tussen Dwarkesh Patel en Ada Palmer over de Italiaanse Renaissance, Leonardo da Vinci, Gutenberg en hoe Florence de moderne wereld vormgaf</description>
+    <enclosure url="https://drive.google.com/uc?export=download&amp;id=1OxK_M10etHQLpv4Ct2Oz2U7l_7GVJWb_&amp;confirm=t" length="56579591" type="audio/mp4"/>
+    <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">dwarkesh-1OxK_M10etHQLpv4Ct2Oz2U7l_7GVJWb_</guid>
+    <itunes:duration>0:30:00</itunes:duration>
+  </item>
+</channel>
 </rss>
