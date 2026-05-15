@@ -1,221 +1,214 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI Report Podcast</title>
+    <description>Nederlandstalige podcast gegenereerd via NotebookLM</description>
+    <language>nl</language>
     <link>https://legalfiction.github.io/podcast-feeds/ai-report.xml</link>
     <atom:link href="https://legalfiction.github.io/podcast-feeds/ai-report.xml" rel="self" type="application/rss+xml"/>
-    <description>Dagelijkse Nederlandstalige podcast over de laatste AI-ontwikkelingen.</description>
-    <language>nl</language>
-    <itunes:author>AI Report</itunes:author>
-    <itunes:summary>Dagelijkse Nederlandstalige podcast over de laatste AI-ontwikkelingen.</itunes:summary>
+    <itunes:language>nl</itunes:language>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:category text="Technology"/>
+    <item>
+      <title>Masterclass: zo haal je het maximale uit Microsoft Copilot</title>
+      <description>Nederlandstalige podcast — 2026-05-15</description>
+      <pubDate>Fri, 15 May 2026 17:38:25 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=&amp;confirm=t" length="0" type="audio/mp4"/>
+      <itunes:duration>00:30:00</itunes:duration>
+      <guid isPermaLink="false">Masterclass: zo haal je het maximale uit Microsoft Copilot</guid>
+    </item>
+    <item>
+      <title>AI Report 2026-05-05 — Bouw je volgende app door tegen je telefoon te praten</title>
+      <description>AI Report podcast 5 mei 2026: bouw je app door tegen je telefoon te praten, AI stelt vaker juiste diagnose dan spoedartsen, Big Tech investeert 725 miljard dollar, en AI Pulse over China, Anthropic Jupiter en Talkie-1930.</description>
+      <pubDate>2026-05-05</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1X8nTAAqiFXEN4biGajYyLuKjcjGEE_8P&amp;confirm=t" length="31222662" type="audio/mp4"/>
+      <itunes:duration>0:31:00</itunes:duration>
+      <guid isPermaLink="false">1X8nTAAqiFXEN4biGajYyLuKjcjGEE_8P</guid>
+    </item>
     <item>
       <title>The autonomous AI podcast ghost ship</title>
       <description>AI Report podcast over autonome AI podcast ghost ship</description>
-      <pubDate>Sun, 03 May 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1ZHShx548HGFVby1OpaLyV8Hh3vLnU6Em/view</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZHShx548HGFVby1OpaLyV8Hh3vLnU6Em" length="60860883" type="audio/mp4"/>
+      <pubDate>2026-05-03</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZHShx548HGFVby1OpaLyV8Hh3vLnU6Em&amp;confirm=t" length="60860883" type="audio/mp4"/>
       <itunes:duration>0:42:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">1ZHShx548HGFVby1OpaLyV8Hh3vLnU6Em</guid>
     </item>
     <item>
       <title>Jouw muisklikken trainen je digitale vervanger</title>
       <description>AI Report podcast over digitale vervanger</description>
-      <pubDate>Sun, 03 May 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1YD4LknOmSn3hpb0kKJP9fYLyAD6wvgeh/view</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YD4LknOmSn3hpb0kKJP9fYLyAD6wvgeh" length="46974425" type="audio/mp4"/>
+      <pubDate>2026-05-03</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YD4LknOmSn3hpb0kKJP9fYLyAD6wvgeh&amp;confirm=t" length="46974425" type="audio/mp4"/>
       <itunes:duration>0:33:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">1YD4LknOmSn3hpb0kKJP9fYLyAD6wvgeh</guid>
     </item>
     <item>
       <title>AI Report 2026-04-30</title>
       <description>AI Report podcast 30 april 2026</description>
-      <pubDate>Thu, 30 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1ajgseN4-Vd7sWjKP2DtEDo6i49PKkFzx/view</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ajgseN4-Vd7sWjKP2DtEDo6i49PKkFzx" length="47628315" type="audio/mp4"/>
+      <pubDate>2026-04-30</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ajgseN4-Vd7sWjKP2DtEDo6i49PKkFzx&amp;confirm=t" length="47628315" type="audio/mp4"/>
       <itunes:duration>0:33:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">1ajgseN4-Vd7sWjKP2DtEDo6i49PKkFzx</guid>
     </item>
     <item>
       <title>AI Report 2026-04-28</title>
       <description>AI Report podcast 28 april 2026</description>
-      <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1X1ksPr5GDD8q-n2q-NhtM2sTtrN-avKC/view</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1X1ksPr5GDD8q-n2q-NhtM2sTtrN-avKC" length="50993390" type="audio/mp4"/>
+      <pubDate>2026-04-28</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1X1ksPr5GDD8q-n2q-NhtM2sTtrN-avKC&amp;confirm=t" length="50993390" type="audio/mp4"/>
       <itunes:duration>0:36:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>AI Report 2026-04-23 deel 2</title>
-      <description>AI Report podcast 23 april deel 2</description>
-      <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1ZMNkJ5LtMqTFFt_ZFYDzwecOrs17S2k-/view</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZMNkJ5LtMqTFFt_ZFYDzwecOrs17S2k-" length="46974425" type="audio/mp4"/>
-      <itunes:duration>0:33:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">1X1ksPr5GDD8q-n2q-NhtM2sTtrN-avKC</guid>
     </item>
     <item>
       <title>AI Report 2026-04-23 deel 1</title>
       <description>AI Report podcast 23 april deel 1</description>
-      <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1PkuCt4Xssy1z_Euhp8uKC8VddlzhyquJ/view</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1PkuCt4Xssy1z_Euhp8uKC8VddlzhyquJ" length="33706630" type="audio/mp4"/>
+      <pubDate>2026-04-23</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1PkuCt4Xssy1z_Euhp8uKC8VddlzhyquJ&amp;confirm=t" length="33706630" type="audio/mp4"/>
       <itunes:duration>0:24:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">1PkuCt4Xssy1z_Euhp8uKC8VddlzhyquJ</guid>
+    </item>
+    <item>
+      <title>AI Report 2026-04-23 deel 2</title>
+      <description>AI Report podcast 23 april deel 2</description>
+      <pubDate>2026-04-23</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZMNkJ5LtMqTFFt_ZFYDzwecOrs17S2k-&amp;confirm=t" length="46974425" type="audio/mp4"/>
+      <itunes:duration>0:33:00</itunes:duration>
+      <guid isPermaLink="false">1ZMNkJ5LtMqTFFt_ZFYDzwecOrs17S2k-</guid>
     </item>
     <item>
       <title>AI Report 2026-04-21</title>
       <description>AI Report podcast 21 april 2026</description>
-      <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1HZg2-ltArgBl2FlIPUfwwDlmb2SXN_qp/view</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HZg2-ltArgBl2FlIPUfwwDlmb2SXN_qp" length="47118603" type="audio/mp4"/>
+      <pubDate>2026-04-21</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HZg2-ltArgBl2FlIPUfwwDlmb2SXN_qp&amp;confirm=t" length="47118603" type="audio/mp4"/>
       <itunes:duration>0:33:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">1HZg2-ltArgBl2FlIPUfwwDlmb2SXN_qp</guid>
     </item>
     <item>
       <title>GPT Cyber vindt lekken zonder broncode</title>
       <description>AI Report podcast over GPT Cyber</description>
-      <pubDate>Sat, 18 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1NRyvVxNXAGhuEVj83pNYNhk6WWyBxyxI/view</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1NRyvVxNXAGhuEVj83pNYNhk6WWyBxyxI" length="35899253" type="audio/mp4"/>
+      <pubDate>2026-04-18</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1NRyvVxNXAGhuEVj83pNYNhk6WWyBxyxI&amp;confirm=t" length="35899253" type="audio/mp4"/>
       <itunes:duration>0:25:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">1NRyvVxNXAGhuEVj83pNYNhk6WWyBxyxI</guid>
     </item>
     <item>
       <title>AI Report 2026-04-16</title>
       <description>AI Report podcast 16 april 2026</description>
-      <pubDate>Thu, 16 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/file/d/16RXZZtVcmZnsBxKzW-Do8HGAbyuC8D7q/view</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=16RXZZtVcmZnsBxKzW-Do8HGAbyuC8D7q" length="18052620" type="audio/mp4"/>
+      <pubDate>2026-04-16</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=16RXZZtVcmZnsBxKzW-Do8HGAbyuC8D7q&amp;confirm=t" length="18052620" type="audio/mp4"/>
       <itunes:duration>0:12:30</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">16RXZZtVcmZnsBxKzW-Do8HGAbyuC8D7q</guid>
     </item>
     <item>
       <title>Claude Mythos</title>
       <description>AI Report podcast over Claude Mythos</description>
-      <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1po-ZUDdq2_1VDkngBWcuSApou4zSCrdD/view</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1po-ZUDdq2_1VDkngBWcuSApou4zSCrdD" length="926366" type="audio/mp4"/>
+      <pubDate>2026-04-09</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1po-ZUDdq2_1VDkngBWcuSApou4zSCrdD&amp;confirm=t" length="926366" type="audio/mp4"/>
       <itunes:duration>0:10:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">1po-ZUDdq2_1VDkngBWcuSApou4zSCrdD</guid>
     </item>
     <item>
       <title>Masterclass AI assistent</title>
       <description>AI Report podcast masterclass AI assistent</description>
-      <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1DZ5G9Jz20hIdtFAAGHsOkODn9iNv9H63/view</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1DZ5G9Jz20hIdtFAAGHsOkODn9iNv9H63" length="926390" type="audio/mp4"/>
+      <pubDate>2026-04-08</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1DZ5G9Jz20hIdtFAAGHsOkODn9iNv9H63&amp;confirm=t" length="926390" type="audio/mp4"/>
       <itunes:duration>0:10:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">1DZ5G9Jz20hIdtFAAGHsOkODn9iNv9H63</guid>
     </item>
     <item>
       <title>Heeft AI emoties</title>
       <description>AI Report podcast over AI en emoties</description>
-      <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1YJD02lanutz5N2xdTBfPUkdbDXsn57O9/view</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YJD02lanutz5N2xdTBfPUkdbDXsn57O9" length="926484" type="audio/mp4"/>
+      <pubDate>2026-04-07</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YJD02lanutz5N2xdTBfPUkdbDXsn57O9&amp;confirm=t" length="926484" type="audio/mp4"/>
       <itunes:duration>0:10:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">1YJD02lanutz5N2xdTBfPUkdbDXsn57O9</guid>
     </item>
     <item>
       <title>Buitenaardse wiskunde en de grillige AI-stagiair</title>
       <description>AI Report podcast over buitenaardse wiskunde en AI</description>
-      <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1IqPr9ggBmXwmeCDnazdCGlIJ5ntXqis3/view</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IqPr9ggBmXwmeCDnazdCGlIJ5ntXqis3" length="64638555" type="audio/mp4"/>
+      <pubDate>2026-04-03</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IqPr9ggBmXwmeCDnazdCGlIJ5ntXqis3&amp;confirm=t" length="64638555" type="audio/mp4"/>
       <itunes:duration>0:45:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">1IqPr9ggBmXwmeCDnazdCGlIJ5ntXqis3</guid>
     </item>
     <item>
       <title>Kankervaccins voor honden en tennissende robots</title>
       <description>AI Report podcast over kankervaccins en robots</description>
-      <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1MMooyLeihIjWPBraWLXnP_CzoTD31-1N/view</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1MMooyLeihIjWPBraWLXnP_CzoTD31-1N" length="50920180" type="audio/mp4"/>
+      <pubDate>2026-04-03</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1MMooyLeihIjWPBraWLXnP_CzoTD31-1N&amp;confirm=t" length="50920180" type="audio/mp4"/>
       <itunes:duration>0:35:30</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">1MMooyLeihIjWPBraWLXnP_CzoTD31-1N</guid>
     </item>
     <item>
       <title>De race naar AGI en autonome agenten</title>
       <description>AI Report podcast over de race naar AGI</description>
-      <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1uIVBq5YtcKvIiX8TdMVUBWu5oglZ_sTc/view</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1uIVBq5YtcKvIiX8TdMVUBWu5oglZ_sTc" length="54159005" type="audio/mp4"/>
+      <pubDate>2026-04-03</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1uIVBq5YtcKvIiX8TdMVUBWu5oglZ_sTc&amp;confirm=t" length="54159005" type="audio/mp4"/>
       <itunes:duration>0:37:40</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">1uIVBq5YtcKvIiX8TdMVUBWu5oglZ_sTc</guid>
     </item>
     <item>
       <title>Hoe AI pelikanen tekent en miljarden verdampt</title>
       <description>AI Report podcast over AI beeldgeneratie</description>
-      <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1oIFvXPylkgkcOID4zBdP8sBaPvbgCsa8/view</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1oIFvXPylkgkcOID4zBdP8sBaPvbgCsa8" length="32238235" type="audio/mp4"/>
+      <pubDate>2026-04-03</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1oIFvXPylkgkcOID4zBdP8sBaPvbgCsa8&amp;confirm=t" length="32238235" type="audio/mp4"/>
       <itunes:duration>0:22:30</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">1oIFvXPylkgkcOID4zBdP8sBaPvbgCsa8</guid>
     </item>
     <item>
       <title>Pentagon ruzies en de leugen van AI-washing</title>
       <description>AI Report podcast over Pentagon en AI-washing</description>
-      <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/file/d/12jMLg2aHWii19oaT8RzCXIN-IJi_rlLM/view</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=12jMLg2aHWii19oaT8RzCXIN-IJi_rlLM" length="50009939" type="audio/mp4"/>
+      <pubDate>2026-04-03</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=12jMLg2aHWii19oaT8RzCXIN-IJi_rlLM&amp;confirm=t" length="50009939" type="audio/mp4"/>
       <itunes:duration>0:34:45</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">12jMLg2aHWii19oaT8RzCXIN-IJi_rlLM</guid>
     </item>
     <item>
       <title>AI spookgroei en de Pentagon crisis</title>
       <description>AI Report podcast over AI spookgroei</description>
-      <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1Mey77QTio3zaBn68dBE2qFUXzly3f123/view</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Mey77QTio3zaBn68dBE2qFUXzly3f123" length="29367069" type="audio/mp4"/>
+      <pubDate>2026-04-03</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Mey77QTio3zaBn68dBE2qFUXzly3f123&amp;confirm=t" length="29367069" type="audio/mp4"/>
       <itunes:duration>0:20:25</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">1Mey77QTio3zaBn68dBE2qFUXzly3f123</guid>
     </item>
     <item>
       <title>AI neemt de controle over je computer</title>
       <description>AI Report podcast over AI computer controle</description>
-      <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1vhPpbI8Ryh3niRxNl01cWcAMH-1YI2-i/view</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vhPpbI8Ryh3niRxNl01cWcAMH-1YI2-i" length="54487818" type="audio/mp4"/>
+      <pubDate>2026-04-03</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vhPpbI8Ryh3niRxNl01cWcAMH-1YI2-i&amp;confirm=t" length="54487818" type="audio/mp4"/>
       <itunes:duration>0:37:55</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">1vhPpbI8Ryh3niRxNl01cWcAMH-1YI2-i</guid>
     </item>
     <item>
       <title>AI begins building its own successors</title>
       <description>AI Report podcast over AI die eigen opvolgers bouwt</description>
-      <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1S0s_JDap5kghV983cYIo_H9e-E8kfAov/view</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1S0s_JDap5kghV983cYIo_H9e-E8kfAov" length="85785045" type="audio/mp4"/>
+      <pubDate>2026-04-03</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1S0s_JDap5kghV983cYIo_H9e-E8kfAov&amp;confirm=t" length="85785045" type="audio/mp4"/>
       <itunes:duration>0:59:45</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">1S0s_JDap5kghV983cYIo_H9e-E8kfAov</guid>
     </item>
     <item>
       <title>Super-AI faalt bij simpele kleuterpuzzels</title>
       <description>AI Report podcast over hoe super-AI faalt bij simpele kleuterpuzzels</description>
-      <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1s2VHNS8Sv2fQD7kzx-AdXSY7g7nXSYKo/view</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1s2VHNS8Sv2fQD7kzx-AdXSY7g7nXSYKo" length="39641814" type="audio/mp4"/>
+      <pubDate>2026-04-02</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1s2VHNS8Sv2fQD7kzx-AdXSY7g7nXSYKo&amp;confirm=t" length="39641814" type="audio/mp4"/>
       <itunes:duration>0:27:30</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">1s2VHNS8Sv2fQD7kzx-AdXSY7g7nXSYKo</guid>
     </item>
     <item>
       <title>Van chatbot naar autonome werknemer</title>
       <description>AI Report podcast over de transformatie van chatbot naar autonome werknemer</description>
-      <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1AoR-aV66M2qaE8TfgArs8XSzGvFI65jx/view</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AoR-aV66M2qaE8TfgArs8XSzGvFI65jx" length="60432714" type="audio/mp4"/>
+      <pubDate>2026-04-02</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AoR-aV66M2qaE8TfgArs8XSzGvFI65jx&amp;confirm=t" length="60432714" type="audio/mp4"/>
       <itunes:duration>0:42:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">1AoR-aV66M2qaE8TfgArs8XSzGvFI65jx</guid>
     </item>
     <item>
       <title>Waarom power-users massaal overstappen naar Claude</title>
       <description>AI Report podcast over Claude power-users</description>
-      <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1iq2mrPQpA2VcI8J8MZdEHD2aiGyU2t8r/view</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1iq2mrPQpA2VcI8J8MZdEHD2aiGyU2t8r" length="28884250" type="audio/mp4"/>
+      <pubDate>2026-03-31</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1iq2mrPQpA2VcI8J8MZdEHD2aiGyU2t8r&amp;confirm=t" length="28884250" type="audio/mp4"/>
       <itunes:duration>0:20:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">1iq2mrPQpA2VcI8J8MZdEHD2aiGyU2t8r</guid>
     </item>
   </channel>
 </rss>
