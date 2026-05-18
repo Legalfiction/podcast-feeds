@@ -10,37 +10,6 @@
     <atom:link href="https://legalfiction.github.io/podcast-feeds/architectuur-vragen.xml" rel="self" type="application/rss+xml"/>
     <itunes:language>nl</itunes:language>
     <itunes:explicit>false</itunes:explicit>
-    <item>
-      <title>Het AI-Gedreven Tweede Brein: Obsidian en de Karpathy-Methode</title>
-      <description>Nederlandstalige podcast — 2026-05-18</description>
-      <pubDate>Mon, 18 May 2026 14:47:22 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=&amp;confirm=t" length="0" type="audio/mp4"/>
-      <itunes:duration>00:30:00</itunes:duration>
-      <guid isPermaLink="false">Het AI-Gedreven Tweede Brein: Obsidian en de Karpathy-Methode</guid>
-    </item>
-    <item>
-      <title>Test</title>
-      <description>Nederlandstalige podcast — 2026-05-18</description>
-      <pubDate>Mon, 18 May 2026 14:45:15 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=&amp;confirm=t" length="0" type="audio/mp4"/>
-      <itunes:duration>00:30:00</itunes:duration>
-      <guid isPermaLink="false">Test</guid>
-    </item>
-    <item>
-      <title>Architectuur-vragen</title>
-      <description>Architectuur Vragen — eerste aflevering</description>
-      <pubDate>2026-05-03</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KfUh-FMJ1DYdl-RuPIEUrbd3yAg6JOAD&amp;confirm=t" length="38526769" type="audio/mp4"/>
-      <itunes:duration>0:25:00</itunes:duration>
-      <guid isPermaLink="false">1KfUh-FMJ1DYdl-RuPIEUrbd3yAg6JOAD</guid>
-    </item>
-    <item>
-      <title>Pusher: e-commerce platform in 1 week met AI</title>
-      <description>Pusher: multi-channel productbeheer-platform gebouwd in 1 week met Claude AI</description>
-      <pubDate>2026-05-03</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=12qhzXfePOgbqSDHYQAiWQDs95Bs75i6c&amp;confirm=t" length="46833118" type="audio/mp4"/>
-      <itunes:duration>0:32:00</itunes:duration>
-      <guid isPermaLink="false">12qhzXfePOgbqSDHYQAiWQDs95Bs75i6c</guid>
-    </item>
+
   </channel>
 </rss>
