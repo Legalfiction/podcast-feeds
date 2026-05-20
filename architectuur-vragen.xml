@@ -10,6 +10,13 @@
     <atom:link href="https://legalfiction.github.io/podcast-feeds/architectuur-vragen.xml" rel="self" type="application/rss+xml"/>
     <itunes:language>nl</itunes:language>
     <itunes:explicit>false</itunes:explicit>
-
+    <item>
+      <title>Vrije tekst 2026-05-20</title>
+      <description>Nederlandstalige podcast — 2026-05-20</description>
+      <pubDate>Wed, 20 May 2026 22:53:47 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=&amp;confirm=t" length="0" type="audio/mp4"/>
+      <itunes:duration>00:30:00</itunes:duration>
+      <guid isPermaLink="false">Vrije tekst 2026-05-20</guid>
+    </item>
   </channel>
 </rss>
