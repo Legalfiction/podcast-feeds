@@ -10,6 +10,77 @@
     <atom:link href="https://legalfiction.github.io/podcast-feeds/architectuur-vragen.xml" rel="self" type="application/rss+xml"/>
     <itunes:language>nl</itunes:language>
     <itunes:explicit>false</itunes:explicit>
-
+    <item>
+      <title>Claude Code als je virtuele engineer</title>
+      <description>Nederlandstalige podcast — 2026-05-21</description>
+      <pubDate>Thu, 21 May 2026 16:15:05 GMT</pubDate>
+      <enclosure url="https://github.com/legalfiction/podcast-feeds/releases/download/audio/2026-05-21-architectuur-vragen-claude-code-als-je-virtuele-engineer.m4a" length="44469423" type="audio/mp4"/>
+      <itunes:duration>00:30:00</itunes:duration>
+      <guid isPermaLink="false">Claude Code als je virtuele engineer</guid>
+    </item>
+    <item>
+      <title>Agentic workflows die hun eigen code repareren</title>
+      <description>Nederlandstalige podcast — 2026-05-21</description>
+      <pubDate>Thu, 21 May 2026 16:15:05 GMT</pubDate>
+      <enclosure url="https://github.com/legalfiction/podcast-feeds/releases/download/audio/2026-05-21-architectuur-vragen-agentic-workflows-die-hun-eigen-code-repareren.m4a" length="28855863" type="audio/mp4"/>
+      <itunes:duration>00:30:00</itunes:duration>
+      <guid isPermaLink="false">Agentic workflows die hun eigen code repareren</guid>
+    </item>
+    <item>
+      <title>Agressieve prijsstrategie voor 143 dollar</title>
+      <description>Nederlandstalige podcast — 2026-05-21</description>
+      <pubDate>Thu, 21 May 2026 16:15:05 GMT</pubDate>
+      <enclosure url="https://github.com/legalfiction/podcast-feeds/releases/download/audio/2026-05-21-architectuur-vragen-agressieve-prijsstrategie-voor-143-dollar.m4a" length="25447460" type="audio/mp4"/>
+      <itunes:duration>00:30:00</itunes:duration>
+      <guid isPermaLink="false">Agressieve prijsstrategie voor 143 dollar</guid>
+    </item>
+    <item>
+      <title>Bouw complexe automatiseringen met AI agents</title>
+      <description>Nederlandstalige podcast — 2026-05-21</description>
+      <pubDate>Thu, 21 May 2026 16:15:05 GMT</pubDate>
+      <enclosure url="https://github.com/legalfiction/podcast-feeds/releases/download/audio/2026-05-21-architectuur-vragen-bouw-complexe-automatiseringen-met-ai-agents.m4a" length="27938152" type="audio/mp4"/>
+      <itunes:duration>00:30:00</itunes:duration>
+      <guid isPermaLink="false">Bouw complexe automatiseringen met AI agents</guid>
+    </item>
+    <item>
+      <title>AI-agenten die hun eigen code repareren</title>
+      <description>Nederlandstalige podcast — 2026-05-21</description>
+      <pubDate>Thu, 21 May 2026 16:15:05 GMT</pubDate>
+      <enclosure url="https://github.com/legalfiction/podcast-feeds/releases/download/audio/2026-05-21-architectuur-vragen-ai-agenten-die-hun-eigen-code-repareren.m4a" length="49094469" type="audio/mp4"/>
+      <itunes:duration>00:30:00</itunes:duration>
+      <guid isPermaLink="false">AI-agenten die hun eigen code repareren</guid>
+    </item>
+    <item>
+      <title>AI die voortaan zelf je workflows bouwt</title>
+      <description>Nederlandstalige podcast — 2026-05-21</description>
+      <pubDate>Thu, 21 May 2026 16:15:05 GMT</pubDate>
+      <enclosure url="https://github.com/legalfiction/podcast-feeds/releases/download/audio/2026-05-21-architectuur-vragen-ai-die-voortaan-zelf-je-workflows-bouwt.m4a" length="51331167" type="audio/mp4"/>
+      <itunes:duration>00:30:00</itunes:duration>
+      <guid isPermaLink="false">AI die voortaan zelf je workflows bouwt</guid>
+    </item>
+    <item>
+      <title>Je AI agent gaat niet mee naar de cloud</title>
+      <description>Nederlandstalige podcast — 2026-05-21</description>
+      <pubDate>Thu, 21 May 2026 16:15:05 GMT</pubDate>
+      <enclosure url="https://github.com/legalfiction/podcast-feeds/releases/download/audio/2026-05-21-architectuur-vragen-je-ai-agent-gaat-niet-mee-naar-de-cloud.m4a" length="18451880" type="audio/mp4"/>
+      <itunes:duration>00:30:00</itunes:duration>
+      <guid isPermaLink="false">Je AI agent gaat niet mee naar de cloud</guid>
+    </item>
+    <item>
+      <title>Natuurlijke taal is de nieuwe compiler</title>
+      <description>Nederlandstalige podcast — 2026-05-21</description>
+      <pubDate>Thu, 21 May 2026 16:15:05 GMT</pubDate>
+      <enclosure url="https://github.com/legalfiction/podcast-feeds/releases/download/audio/2026-05-21-architectuur-vragen-natuurlijke-taal-is-de-nieuwe-compiler.m4a" length="37844491" type="audio/mp4"/>
+      <itunes:duration>00:30:00</itunes:duration>
+      <guid isPermaLink="false">Natuurlijke taal is de nieuwe compiler</guid>
+    </item>
+    <item>
+      <title>Je nieuwe 24/7 autonome AI-werknemer</title>
+      <description>Nederlandstalige podcast — 2026-05-21</description>
+      <pubDate>Thu, 21 May 2026 16:15:05 GMT</pubDate>
+      <enclosure url="https://github.com/legalfiction/podcast-feeds/releases/download/audio/2026-05-21-architectuur-vragen-je-nieuwe-247-autonome-ai-werknemer.m4a" length="25367411" type="audio/mp4"/>
+      <itunes:duration>00:30:00</itunes:duration>
+      <guid isPermaLink="false">Je nieuwe 24/7 autonome AI-werknemer</guid>
+    </item>
   </channel>
 </rss>
