@@ -10,21 +10,6 @@
     <atom:link href="https://legalfiction.github.io/podcast-feeds/ai-report.xml" rel="self" type="application/rss+xml"/>
     <itunes:language>nl</itunes:language>
     <itunes:explicit>false</itunes:explicit>
-    <item>
-      <title>Zo stap je over van ChatGPT naar Claude</title>
-      <description>Nederlandstalige podcast — 2026-05-25</description>
-      <pubDate>Mon, 25 May 2026 21:16:31 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=&amp;confirm=t" length="0" type="audio/mp4"/>
-      <itunes:duration>00:30:00</itunes:duration>
-      <guid isPermaLink="false">Zo stap je over van ChatGPT naar Claude</guid>
-    </item>
-    <item>
-      <title>Bescherm vertrouwelijke data met lokale AI</title>
-      <description>Nederlandstalige podcast — 2026-05-25</description>
-      <pubDate>Mon, 25 May 2026 20:58:24 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XTxs6vHk3hE0dwGDah4UFnqgf9SQsbVq&amp;confirm=t" length="32578254" type="audio/mp4"/>
-      <itunes:duration>00:30:00</itunes:duration>
-      <guid isPermaLink="false">1XTxs6vHk3hE0dwGDah4UFnqgf9SQsbVq</guid>
-    </item>
+
   </channel>
 </rss>
