@@ -8,13 +8,30 @@
     <language>nl</language>
     <link>https://legalfiction.github.io/podcast-feeds/ai-report.xml</link>
     <atom:link href="https://legalfiction.github.io/podcast-feeds/ai-report.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 03 Nov 2026 15:24:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 18:11:41 GMT</lastBuildDate>
     <itunes:language>nl</itunes:language>
     <itunes:author>AI Report Podcast</itunes:author>
     <itunes:summary>AI Report Podcast: Nederlandstalige podcast, gemaakt met AI uit nieuwsbrieven en artikelen.</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Is jouw website klaar voor AI-agents? Test het gratis</title>
+      <description>🗞️ Het belangrijkste nieuwsGoogle lanceert topmodel én verliest 500 miljard dollar beurswaarde op één dagGoogle heeft na maanden achterstand weer het hoogst scorende AI-model op een belangrijke ranglijst, en een dag later verdween er zo&apos;n 500 miljard dollar aan beurswaarde.
+
+Bron: https://www.aireport.nl/p/is-jouw-website-klaar-voor-ai-agents-test-het-gratis
+AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</description>
+      <itunes:summary>🗞️ Het belangrijkste nieuwsGoogle lanceert topmodel én verliest 500 miljard dollar beurswaarde op één dagGoogle heeft na maanden achterstand weer het hoogst scorende AI-model op een belangrijke ranglijst, en een dag later verdween er zo&apos;n 500 miljard dollar aan beurswaarde.
+
+Bron: https://www.aireport.nl/p/is-jouw-website-klaar-voor-ai-agents-test-het-gratis
+AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itunes:summary>
+      <pubDate>Tue, 03 Nov 2026 18:11:41 GMT</pubDate>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1L62CyM-_uOZGchVkw1Em4I-5LlEc1QQD&amp;export=download&amp;confirm=t" length="19863855" type="audio/mp4"/>
+      <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">1L62CyM-_uOZGchVkw1Em4I-5LlEc1QQD</guid>
+    </item>
     <item>
       <title>Agent Week: een AI-collega die weet wie je bent</title>
       <description>Xiang Yu Yeung, redacteur van AI Report, bouwt voor je ogen een amplifier: een AI die je werk versterkt in plaats van het over te nemen. Per dag een korte video en een gids met prompts die je kopieert. Alles staat online. Bekijk dag 5 →Wat je nodig hebtClaude Pro of ChatGPT Plus.
