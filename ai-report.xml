@@ -4,562 +4,791 @@
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI Report Podcast</title>
-    <description>Nederlandstalige podcast gegenereerd via NotebookLM</description>
+    <description>AI Report Podcast: Nederlandstalige podcast, gemaakt met AI uit nieuwsbrieven en artikelen.</description>
     <language>nl</language>
     <link>https://legalfiction.github.io/podcast-feeds/ai-report.xml</link>
     <atom:link href="https://legalfiction.github.io/podcast-feeds/ai-report.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Tue, 03 Nov 2026 15:24:56 GMT</lastBuildDate>
     <itunes:language>nl</itunes:language>
+    <itunes:author>AI Report Podcast</itunes:author>
+    <itunes:summary>AI Report Podcast: Nederlandstalige podcast, gemaakt met AI uit nieuwsbrieven en artikelen.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Agent Week: een AI-collega die weet wie je bent</title>
+      <description>Xiang Yu Yeung, redacteur van AI Report, bouwt voor je ogen een amplifier: een AI die je werk versterkt in plaats van het over te nemen. Per dag een korte video en een gids met prompts die je kopieert. Alles staat online. Bekijk dag 5 →Wat je nodig hebtClaude Pro of ChatGPT Plus.
+
+Bron: https://www.aireport.nl/p/agent-week
+AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</description>
+      <itunes:summary>Xiang Yu Yeung, redacteur van AI Report, bouwt voor je ogen een amplifier: een AI die je werk versterkt in plaats van het over te nemen. Per dag een korte video en een gids met prompts die je kopieert. Alles staat online. Bekijk dag 5 →Wat je nodig hebtClaude Pro of ChatGPT Plus.
+
+Bron: https://www.aireport.nl/p/agent-week
+AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itunes:summary>
+      <pubDate>Tue, 03 Nov 2026 15:24:56 GMT</pubDate>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1RgBOoTaV4K27sF2TLcRWN6LFIP8qT5Uj&amp;export=download&amp;confirm=t" length="18894750" type="audio/mp4"/>
+      <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">1RgBOoTaV4K27sF2TLcRWN6LFIP8qT5Uj</guid>
+    </item>
     <item>
       <title>Kan AI zich straks verspreiden via je tv-kastje?</title>
       <description>Nederlandstalige podcast — 2026-10-15</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-10-15</itunes:summary>
       <pubDate>Thu, 15 Oct 2026 10:11:35 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1mkcVst34VhupGvSX6HVSNuChX1KguiVf&amp;export=download&amp;confirm=t" length="16085310" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1mkcVst34VhupGvSX6HVSNuChX1KguiVf</guid>
     </item>
     <item>
       <title>Is alle software straks gratis?</title>
       <description>Nederlandstalige podcast — 2026-10-13</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-10-13</itunes:summary>
       <pubDate>Tue, 13 Oct 2026 11:10:06 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=12soaJrNKq1-Q-iz36Xggs3vNmvtcMlyL&amp;export=download&amp;confirm=t" length="17117380" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">12soaJrNKq1-Q-iz36Xggs3vNmvtcMlyL</guid>
     </item>
     <item>
       <title>3 eindscenario’s poëtischer dan uitroeiing door AI</title>
       <description>Nederlandstalige podcast — 2026-10-10</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-10-10</itunes:summary>
       <pubDate>Sat, 10 Oct 2026 10:13:11 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=13xOFkTlYjub8F-I0ryQj1J8Kr6ysq1FE&amp;export=download&amp;confirm=t" length="24192441" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">13xOFkTlYjub8F-I0ryQj1J8Kr6ysq1FE</guid>
     </item>
     <item>
       <title>Masterclass: wat je nu ineens met Claude Opus 5.5 maakt</title>
       <description>Nederlandstalige podcast — 2026-10-09</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-10-09</itunes:summary>
       <pubDate>Fri, 09 Oct 2026 12:11:17 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1qSHwOSXURTs40s7rPtQufl-Zygo_SBNA&amp;export=download&amp;confirm=t" length="15595127" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1qSHwOSXURTs40s7rPtQufl-Zygo_SBNA</guid>
     </item>
     <item>
       <title>Contextrot klinkt eng. Dit doe je ertegen </title>
       <description>Nederlandstalige podcast — 2026-10-08</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-10-08</itunes:summary>
       <pubDate>Thu, 08 Oct 2026 11:12:37 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1TZ326d7dozr5xgttEhvVDB9TmzmAbXBL&amp;export=download&amp;confirm=t" length="16325426" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1TZ326d7dozr5xgttEhvVDB9TmzmAbXBL</guid>
     </item>
     <item>
       <title>Bij OpenAI is AI in toom houden nu &apos;de hel&apos;</title>
       <description>Nederlandstalige podcast — 2026-10-06</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-10-06</itunes:summary>
       <pubDate>Tue, 06 Oct 2026 11:14:11 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1rKnEJBd7jwZxU0MZRY4oyjt_wpldJBFY&amp;export=download&amp;confirm=t" length="21700227" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1rKnEJBd7jwZxU0MZRY4oyjt_wpldJBFY</guid>
     </item>
     <item>
       <title>De singulariteitsparadox</title>
       <description>Nederlandstalige podcast — 2026-10-03</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-10-03</itunes:summary>
       <pubDate>Sat, 03 Oct 2026 10:10:14 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1BII2Cc9_Qeio_V407tCAl-ESHvPgB26o&amp;export=download&amp;confirm=t" length="12107203" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1BII2Cc9_Qeio_V407tCAl-ESHvPgB26o</guid>
     </item>
     <item>
       <title>OpenAI komt met autonome AI-agent en abonnement van 500 dollar</title>
       <description>Nederlandstalige podcast — 2026-10-01</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-10-01</itunes:summary>
       <pubDate>Thu, 01 Oct 2026 11:10:57 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1TEDGNGOYtzaAj_T2FyVp4XkfJ7vAR83T&amp;export=download&amp;confirm=t" length="17776368" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1TEDGNGOYtzaAj_T2FyVp4XkfJ7vAR83T</guid>
     </item>
     <item>
       <title>Maak je eigen huisstijl in vijf minuten met Claude Design</title>
       <description>Nederlandstalige podcast — 2026-09-29</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-09-29</itunes:summary>
       <pubDate>Tue, 29 Sep 2026 11:11:17 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1rSIM4UKHrV8UDHLQSSm4MppPFGQ2utkG&amp;export=download&amp;confirm=t" length="16617553" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1rSIM4UKHrV8UDHLQSSm4MppPFGQ2utkG</guid>
     </item>
     <item>
       <title>De AI-industrie heeft een wel heel duister geheim waar je maar beter niet achter komt</title>
       <description>Nederlandstalige podcast — 2026-09-26</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-09-26</itunes:summary>
       <pubDate>Sat, 26 Sep 2026 10:12:41 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1Hscpb9DGQ9Wc9ehL1gIADNC0M8dVBNYu&amp;export=download&amp;confirm=t" length="18290106" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1Hscpb9DGQ9Wc9ehL1gIADNC0M8dVBNYu</guid>
     </item>
     <item>
       <title>Zo maakt Claude een PowerPoint in jouw huisstijl</title>
       <description>Nederlandstalige podcast — 2026-09-24</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-09-24</itunes:summary>
       <pubDate>Thu, 24 Sep 2026 11:12:14 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1U3x6Q3KJp0Y8sv2T49nC9gOZIb0UmAsL&amp;export=download&amp;confirm=t" length="24779558" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1U3x6Q3KJp0Y8sv2T49nC9gOZIb0UmAsL</guid>
     </item>
     <item>
       <title>Claude bouwt mee aan de volgende versie van zichzelf</title>
       <description>Nederlandstalige podcast — 2026-09-22</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-09-22</itunes:summary>
       <pubDate>Tue, 22 Sep 2026 12:11:12 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=108C6CPZq09USdtRMuMJ6BbnZsXWpesdc&amp;export=download&amp;confirm=t" length="16976985" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">108C6CPZq09USdtRMuMJ6BbnZsXWpesdc</guid>
     </item>
     <item>
       <title>Masterclass: AI-agents die voor je doorwerken</title>
       <description>Nederlandstalige podcast — 2026-09-21</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-09-21</itunes:summary>
       <pubDate>Mon, 21 Sep 2026 12:12:29 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1HADZ6K2CisufOhJnfPbdXZJh3TRPBlk4&amp;export=download&amp;confirm=t" length="18799059" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1HADZ6K2CisufOhJnfPbdXZJh3TRPBlk4</guid>
     </item>
     <item>
       <title>AI-bedrijven hebben hun ziel verkocht om de jouwe te stelen</title>
       <description>Nederlandstalige podcast — 2026-09-19</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-09-19</itunes:summary>
       <pubDate>Sat, 19 Sep 2026 10:11:04 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1a7WG6QRGcuprsGvDVRPghsVeiApKnl4f&amp;export=download&amp;confirm=t" length="15525626" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1a7WG6QRGcuprsGvDVRPghsVeiApKnl4f</guid>
     </item>
     <item>
       <title>Echte mensen lezen je ChatGPT-gesprekken mee. Dit doe je eraan</title>
       <description>Nederlandstalige podcast — 2026-09-17</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-09-17</itunes:summary>
       <pubDate>Thu, 17 Sep 2026 09:14:05 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1fP0JTSgdPW1slwI6sHbdhIIQ15u8S64k&amp;export=download&amp;confirm=t" length="19349933" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1fP0JTSgdPW1slwI6sHbdhIIQ15u8S64k</guid>
     </item>
     <item>
       <title>De AI-bazen zijn het eens: het moet langzamer. Wie remt als eerst?</title>
       <description>Nederlandstalige podcast — 2026-09-15</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-09-15</itunes:summary>
       <pubDate>Tue, 15 Sep 2026 10:11:20 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=123O4pZ4DXxVb1p7AFXUppNVsHACwtA2r&amp;export=download&amp;confirm=t" length="13336965" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">123O4pZ4DXxVb1p7AFXUppNVsHACwtA2r</guid>
     </item>
     <item>
       <title>Claude Fable 5.1 is uit. Zo benut je het optimaal</title>
       <description>Nederlandstalige podcast — 2026-09-03</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-09-03</itunes:summary>
       <pubDate>Thu, 03 Sep 2026 10:16:51 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1j6nW_f6cYEZaXZWYzmt3ME7HiBrweMzB&amp;export=download&amp;confirm=t" length="24959991" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1j6nW_f6cYEZaXZWYzmt3ME7HiBrweMzB</guid>
     </item>
     <item>
       <title>Een op de vijf Nederlandse opiniestukken is AI</title>
       <description>Nederlandstalige podcast — 2026-09-01</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-09-01</itunes:summary>
       <pubDate>Tue, 01 Sep 2026 07:26:51 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1_LkPw-uoqZKtgs2Ljd7yVYg1JDuCvoHH&amp;export=download&amp;confirm=t" length="23780004" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1_LkPw-uoqZKtgs2Ljd7yVYg1JDuCvoHH</guid>
     </item>
     <item>
       <title>De reacties van de hoofdredacties, integraal</title>
       <description>Nederlandstalige podcast — 2026-08-31</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-08-31</itunes:summary>
       <pubDate>Mon, 31 Aug 2026 22:11:43 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1Ku7DFCTKH19BWlxzwdsrfwGod6NKo_Up&amp;export=download&amp;confirm=t" length="15858995" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1Ku7DFCTKH19BWlxzwdsrfwGod6NKo_Up</guid>
     </item>
     <item>
       <title>Het is AI, dus ik lees het niet</title>
       <description>Nederlandstalige podcast — 2026-08-29</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-08-29</itunes:summary>
       <pubDate>Sat, 29 Aug 2026 09:11:47 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1a8jY5a_pXTumA7WOW4H6cqSoSLGJjA1i&amp;export=download&amp;confirm=t" length="15307038" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1a8jY5a_pXTumA7WOW4H6cqSoSLGJjA1i</guid>
     </item>
     <item>
       <title>Moeten we bepaalde banen reserveren voor mensen?</title>
       <description>Nederlandstalige podcast — 2026-08-27</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-08-27</itunes:summary>
       <pubDate>Thu, 27 Aug 2026 10:20:12 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1XHeynQGmESC6-YIIq4j8DGwv032tGAOE&amp;export=download&amp;confirm=t" length="26967115" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1XHeynQGmESC6-YIIq4j8DGwv032tGAOE</guid>
     </item>
     <item>
       <title>Een Chinese robot rende sneller dan Usain Bolt</title>
       <description>Nederlandstalige podcast — 2026-08-25</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-08-25</itunes:summary>
       <pubDate>Tue, 25 Aug 2026 13:25:51 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1swGOwbDFG1m0KogZRpos64NQP905-h30&amp;export=download&amp;confirm=t" length="21904098" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1swGOwbDFG1m0KogZRpos64NQP905-h30</guid>
     </item>
     <item>
       <title>Je telefoon is verslaafd aan jou</title>
       <description>Nederlandstalige podcast — 2026-08-22</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-08-22</itunes:summary>
       <pubDate>Sat, 22 Aug 2026 10:19:38 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=11orYdv9r2cEZcp00ZVd4YU-HsG6XgLf5&amp;export=download&amp;confirm=t" length="50169921" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">11orYdv9r2cEZcp00ZVd4YU-HsG6XgLf5</guid>
     </item>
     <item>
       <title>Voor het eerst zet OpenAI de ontwikkeling van nieuwe AI stil</title>
       <description>Nederlandstalige podcast — 2026-08-21</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-08-21</itunes:summary>
       <pubDate>Fri, 21 Aug 2026 09:21:52 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1oa8C-1VGOLv7MM28w1URdkMd5ZUnvtQo&amp;export=download&amp;confirm=t" length="31712039" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1oa8C-1VGOLv7MM28w1URdkMd5ZUnvtQo</guid>
     </item>
     <item>
       <title>ChatGPT gaat straks je hele werkdag registreren</title>
       <description>Nederlandstalige podcast — 2026-08-21</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-08-21</itunes:summary>
       <pubDate>Fri, 21 Aug 2026 08:18:30 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1nDj25Jc5MiJJ3k0PKSN-ZklGg1lzEwO1&amp;export=download&amp;confirm=t" length="28220204" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1nDj25Jc5MiJJ3k0PKSN-ZklGg1lzEwO1</guid>
     </item>
     <item>
       <title>Alles wat jij maakt met Claude krijgt een onzichtbaar watermerk</title>
       <description>Nederlandstalige podcast — 2026-08-21</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-08-21</itunes:summary>
       <pubDate>Fri, 21 Aug 2026 07:34:30 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1VZRcFFLhIoRAWIiHJsE0UGp_T2gVn8no&amp;export=download&amp;confirm=t" length="27391806" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1VZRcFFLhIoRAWIiHJsE0UGp_T2gVn8no</guid>
     </item>
     <item>
       <title>De enige AI-skill die er echt toe doet</title>
       <description>Nederlandstalige podcast — 2026-08-16</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-08-16</itunes:summary>
       <pubDate>Sun, 16 Aug 2026 22:08:18 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1FXjYfWZEDvhST-XJ74pnOg2nqk7q9nik&amp;export=download&amp;confirm=t" length="10426645" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1FXjYfWZEDvhST-XJ74pnOg2nqk7q9nik</guid>
     </item>
     <item>
       <title>Waarom jouw eigenaardigheid je superkracht geeft</title>
       <description>Nederlandstalige podcast — 2026-08-16</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-08-16</itunes:summary>
       <pubDate>Sun, 16 Aug 2026 10:48:16 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1PAGhxK-OjzduOKDVTh4t46Q0GId8Hwz5&amp;export=download&amp;confirm=t" length="29727161" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1PAGhxK-OjzduOKDVTh4t46Q0GId8Hwz5</guid>
     </item>
     <item>
       <title>Slack, maar dan met AI-agents die voor jou werken</title>
       <description>Nederlandstalige podcast — 2026-08-04</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-08-04</itunes:summary>
       <pubDate>Tue, 04 Aug 2026 11:15:58 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1fsZXxyhY1-mLVfXDjuUwKOe30yO1ww7o&amp;export=download&amp;confirm=t" length="44868458" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1fsZXxyhY1-mLVfXDjuUwKOe30yO1ww7o</guid>
     </item>
     <item>
       <title>Wat Apple over AI weet en Silicon Valley niet wil toegeven</title>
       <description>Nederlandstalige podcast — 2026-08-01</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-08-01</itunes:summary>
       <pubDate>Sat, 01 Aug 2026 14:11:39 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1vJjPiYVBKRJ13dKnlVpM2DfvrvbT8wkp&amp;export=download&amp;confirm=t" length="29910398" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1vJjPiYVBKRJ13dKnlVpM2DfvrvbT8wkp</guid>
     </item>
     <item>
       <title>Wat Apple over AI weet en Silicon Valley niet wil toegeven</title>
       <description>Nederlandstalige podcast — 2026-08-01</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-08-01</itunes:summary>
       <pubDate>Sat, 01 Aug 2026 10:08:40 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1i6saDx5QqBGZY-lB3iZ4aVurKbRlr132&amp;export=download&amp;confirm=t" length="30389366" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1i6saDx5QqBGZY-lB3iZ4aVurKbRlr132</guid>
     </item>
     <item>
       <title>Ruim 1100 AI-medewerkers vragen om een noodrem</title>
       <description>Nederlandstalige podcast — 2026-07-30</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-07-30</itunes:summary>
       <pubDate>Thu, 30 Jul 2026 11:11:39 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1pdd2gdshFpghigoGCGNfq7jXOzGFTl0x&amp;export=download&amp;confirm=t" length="32286046" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1pdd2gdshFpghigoGCGNfq7jXOzGFTl0x</guid>
     </item>
     <item>
       <title>Met één druk op de knop van stoffig rapport naar presentatie</title>
       <description>Nederlandstalige podcast — 2026-07-29</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-07-29</itunes:summary>
       <pubDate>Wed, 29 Jul 2026 08:13:43 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=14yu2PmDElrLPcgghJVAjZ18Tkde3iHyR&amp;export=download&amp;confirm=t" length="50617513" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">14yu2PmDElrLPcgghJVAjZ18Tkde3iHyR</guid>
     </item>
     <item>
       <title>OpenAI GPT-5.6: AI kon alles, tot ze ARC-AGI-3 tegenkwam</title>
       <description>Nederlandstalige podcast — 2026-07-25</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-07-25</itunes:summary>
       <pubDate>Sat, 25 Jul 2026 10:13:24 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1EQTXG0C2RFlDmFqQypjpxI4DVo5vDOQ9&amp;export=download&amp;confirm=t" length="30344544" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1EQTXG0C2RFlDmFqQypjpxI4DVo5vDOQ9</guid>
     </item>
     <item>
       <title>Een AI brak uit zijn testomgeving en hackte een bedrijf</title>
       <description>Nederlandstalige podcast — 2026-07-23</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-07-23</itunes:summary>
       <pubDate>Thu, 23 Jul 2026 19:48:00 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1E9T75fTlM431RxQCZ1XSGzBkaF6eWpea&amp;export=download&amp;confirm=t" length="45942300" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1E9T75fTlM431RxQCZ1XSGzBkaF6eWpea</guid>
     </item>
     <item>
       <title>Grote kans dat een AI je sollicitatie als eerste beoordeelt</title>
       <description>Nederlandstalige podcast — 2026-07-23</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-07-23</itunes:summary>
       <pubDate>Thu, 23 Jul 2026 19:33:09 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1Yk8Euj0TgP3QyMlcRTFcEKS2U2UcFQ6C&amp;export=download&amp;confirm=t" length="60728541" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1Yk8Euj0TgP3QyMlcRTFcEKS2U2UcFQ6C</guid>
     </item>
     <item>
       <title>Zo bereid je je voor op de komende 5 jaar</title>
       <description>Nederlandstalige podcast — 2026-07-23</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-07-23</itunes:summary>
       <pubDate>Thu, 23 Jul 2026 19:16:15 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=14FL42tdEkdjxMTkSenedb6frA1iep-HO&amp;export=download&amp;confirm=t" length="47656703" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">14FL42tdEkdjxMTkSenedb6frA1iep-HO</guid>
     </item>
     <item>
       <title>De week waarin de makers van AI alarm sloegen</title>
       <description>Nederlandstalige podcast — 2026-07-16</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-07-16</itunes:summary>
       <pubDate>Thu, 16 Jul 2026 11:13:24 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1cfPW1Rh-PC8LqSgI3D0dhbFJ5SAelnkf&amp;export=download&amp;confirm=t" length="25851724" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1cfPW1Rh-PC8LqSgI3D0dhbFJ5SAelnkf</guid>
     </item>
     <item>
       <title>Je oude ChatGPT-prompts werken nu tegen je</title>
       <description>Nederlandstalige podcast — 2026-07-14</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-07-14</itunes:summary>
       <pubDate>Tue, 14 Jul 2026 11:13:16 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1nXyxjAtPAjhZFDHRjFSRbS3Nc8aL-ue1&amp;export=download&amp;confirm=t" length="44576250" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1nXyxjAtPAjhZFDHRjFSRbS3Nc8aL-ue1</guid>
     </item>
     <item>
       <title>Hoe deze kleine start-up een bijna perfecte score behaalde in de strijd tegen AI-slop</title>
       <description>Nederlandstalige podcast — 2026-07-11</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-07-11</itunes:summary>
       <pubDate>Sat, 11 Jul 2026 09:15:32 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1-wPbt5qtL7_cz8sazzu2djG7P4wBjpGL&amp;export=download&amp;confirm=t" length="51680897" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1-wPbt5qtL7_cz8sazzu2djG7P4wBjpGL</guid>
     </item>
     <item>
       <title>Waarom je deze Fable-prompts moet testen vóór zaterdag </title>
       <description>Nederlandstalige podcast — 2026-07-09</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-07-09</itunes:summary>
       <pubDate>Thu, 09 Jul 2026 12:15:51 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1TpZF0Jrry8Z8r4l8TgCo4Nxc0aTTrxxZ&amp;export=download&amp;confirm=t" length="45890755" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1TpZF0Jrry8Z8r4l8TgCo4Nxc0aTTrxxZ</guid>
     </item>
     <item>
       <title>Krijg jij straks een deel van de AI-winst? Amerika broedt op plan om burgers te laten meedelen</title>
       <description>Nederlandstalige podcast — 2026-07-08</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-07-08</itunes:summary>
       <pubDate>Wed, 08 Jul 2026 04:14:50 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1rUM4Xfi0Mg2W65RfUWHo0sPRu9s_Nk36&amp;export=download&amp;confirm=t" length="53622399" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1rUM4Xfi0Mg2W65RfUWHo0sPRu9s_Nk36</guid>
     </item>
     <item>
       <title>Hoe kun je AI beschouwen als een gewone technologie?</title>
       <description>Nederlandstalige podcast — 2026-07-08</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-07-08</itunes:summary>
       <pubDate>Wed, 08 Jul 2026 03:12:50 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1w_uAZ2OVDg0yjj1jOzHTNcsy7uD7oga-&amp;export=download&amp;confirm=t" length="50515916" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1w_uAZ2OVDg0yjj1jOzHTNcsy7uD7oga-</guid>
     </item>
     <item>
       <title>Masterclass: zet jouw eigen Chief of Staff aan het werk</title>
       <description>Nederlandstalige podcast — 2026-07-08</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-07-08</itunes:summary>
       <pubDate>Wed, 08 Jul 2026 02:10:20 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1ZTzYCw-y1HvE0G4R_-GYk5ysLM9nP6mc&amp;export=download&amp;confirm=t" length="47310708" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1ZTzYCw-y1HvE0G4R_-GYk5ysLM9nP6mc</guid>
     </item>
     <item>
       <title>Zo ontdek je of AI jouw bedrijf aanraadt aan klanten</title>
       <description>Nederlandstalige podcast — 2026-07-08</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-07-08</itunes:summary>
       <pubDate>Wed, 08 Jul 2026 01:11:51 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1YtGxrbGS9WKK9DAoc5XXsH204VziNFJg&amp;export=download&amp;confirm=t" length="31552222" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1YtGxrbGS9WKK9DAoc5XXsH204VziNFJg</guid>
     </item>
     <item>
       <title>De nieuwste ChatGPT is uit, maar ook hiertoe krijg je geen toegang</title>
       <description>Nederlandstalige podcast — 2026-07-08</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-07-08</itunes:summary>
       <pubDate>Wed, 08 Jul 2026 00:13:24 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1458rNyZp76vTia1C0BTNQ_HqccuV2t30&amp;export=download&amp;confirm=t" length="61973571" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1458rNyZp76vTia1C0BTNQ_HqccuV2t30</guid>
     </item>
     <item>
       <title>Hoe AI je het vermogen ontneemt om zelf je werk te doen</title>
       <description>Nederlandstalige podcast — 2026-07-07</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-07-07</itunes:summary>
       <pubDate>Tue, 07 Jul 2026 23:09:48 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1f_Qn4MT00oS5DWZ0PCVWaPLec2zqkyFv&amp;export=download&amp;confirm=t" length="28853622" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1f_Qn4MT00oS5DWZ0PCVWaPLec2zqkyFv</guid>
     </item>
     <item>
       <title>Stop met aanroepen. Laat de AI het werk doen.</title>
       <description>Nederlandstalige podcast — 2026-07-07</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-07-07</itunes:summary>
       <pubDate>Tue, 07 Jul 2026 22:08:21 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1FkRSPtet_RDBXjVSTNb1SvIe5Ab6x6hJ&amp;export=download&amp;confirm=t" length="27857471" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1FkRSPtet_RDBXjVSTNb1SvIe5Ab6x6hJ</guid>
     </item>
     <item>
       <title>Claude komt je Slack-team versterken</title>
       <description>Nederlandstalige podcast — 2026-07-07</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-07-07</itunes:summary>
       <pubDate>Tue, 07 Jul 2026 21:12:23 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1uyhB5CWb_ekp8thFIa4ZMXLbHLGeUntg&amp;export=download&amp;confirm=t" length="30672610" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1uyhB5CWb_ekp8thFIa4ZMXLbHLGeUntg</guid>
     </item>
     <item>
       <title>Zijn fusiemodellen de toekomst van AI?</title>
       <description>Nederlandstalige podcast — 2026-07-07</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-07-07</itunes:summary>
       <pubDate>Tue, 07 Jul 2026 20:27:10 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1ALH0P7hVVP5P1B3yihkY8Eit1Z_mTS6r&amp;export=download&amp;confirm=t" length="33104377" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1ALH0P7hVVP5P1B3yihkY8Eit1Z_mTS6r</guid>
     </item>
     <item>
       <title>Masterclass: zo bouw je je eigen kennissysteem voor AI (deel 1)</title>
       <description>Nederlandstalige podcast — 2026-06-19</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-06-19</itunes:summary>
       <pubDate>Fri, 19 Jun 2026 15:09:50 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=14UQ4iaFUmyjQFNr7lXxFGUmc3aRHBcuO&amp;export=download&amp;confirm=t" length="38366156" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">14UQ4iaFUmyjQFNr7lXxFGUmc3aRHBcuO</guid>
     </item>
     <item>
       <title>Geef je per ongeluk klantgegevens weg aan ChatGPT?</title>
       <description>Nederlandstalige podcast — 2026-06-18</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-06-18</itunes:summary>
       <pubDate>Thu, 18 Jun 2026 09:12:27 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1Rgr7DMgr5rXDXUJggOcUay33wINdjAhB&amp;export=download&amp;confirm=t" length="33046763" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1Rgr7DMgr5rXDXUJggOcUay33wINdjAhB</guid>
     </item>
     <item>
       <title>Google wijzigt je zoekscherm en laat AI voor je doorwerken</title>
       <description>Nederlandstalige podcast — 2026-06-16</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-06-16</itunes:summary>
       <pubDate>Tue, 16 Jun 2026 19:52:46 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1BfKrfPPdIdz9XmL_-SdzmndzdCn_ldhr&amp;export=download&amp;confirm=t" length="28488951" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1BfKrfPPdIdz9XmL_-SdzmndzdCn_ldhr</guid>
     </item>
     <item>
       <title>Claude Fable 5 is uit: de AI voor zware klussen, niet je dagelijkse mailtjes</title>
       <description>Nederlandstalige podcast — 2026-06-16</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-06-16</itunes:summary>
       <pubDate>Tue, 16 Jun 2026 19:41:44 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1j1BQDs-ffORCr_z_XQ9xy9svRLY6KAYK&amp;export=download&amp;confirm=t" length="50904492" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1j1BQDs-ffORCr_z_XQ9xy9svRLY6KAYK</guid>
     </item>
     <item>
       <title>Washington haalt het beste AI-model ter wereld uit de lucht</title>
       <description>Nederlandstalige podcast — 2026-06-16</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-06-16</itunes:summary>
       <pubDate>Tue, 16 Jun 2026 19:23:59 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1RUWbmPeJLatPOKHWv6T15UW9PT0QqHn7&amp;export=download&amp;confirm=t" length="30227259" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1RUWbmPeJLatPOKHWv6T15UW9PT0QqHn7</guid>
     </item>
     <item>
       <title>Anthropic wil de AI-race pauzeren</title>
       <description>Nederlandstalige podcast — 2026-06-16</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-06-16</itunes:summary>
       <pubDate>Tue, 16 Jun 2026 18:10:51 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1WY9byj6pZA5IM6Etmy2Agv0QiqOY1yRP&amp;export=download&amp;confirm=t" length="28728866" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1WY9byj6pZA5IM6Etmy2Agv0QiqOY1yRP</guid>
     </item>
     <item>
       <title>Masterclass: Hoe verschilt Codex van ChatGPT?</title>
       <description>Nederlandstalige podcast — 2026-06-12</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-06-12</itunes:summary>
       <pubDate>Fri, 12 Jun 2026 17:09:34 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1FXoPesbAvJB1gwtY_baHLr94u3fZPPgf&amp;export=download&amp;confirm=t" length="33409193" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1FXoPesbAvJB1gwtY_baHLr94u3fZPPgf</guid>
     </item>
     <item>
       <title>Microsoft zet een AI-collega in je Teams en Outlook</title>
       <description>Nederlandstalige podcast — 2026-06-12</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-06-12</itunes:summary>
       <pubDate>Fri, 12 Jun 2026 17:08:27 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1fs9h1C-_y8dNoEEWy7vCRGrP0_1bJae0&amp;export=download&amp;confirm=t" length="40451089" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1fs9h1C-_y8dNoEEWy7vCRGrP0_1bJae0</guid>
     </item>
     <item>
       <title>Claude geeft nu toe wanneer het iets niet weet</title>
       <description>Nederlandstalige podcast — 2026-06-12</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-06-12</itunes:summary>
       <pubDate>Fri, 12 Jun 2026 17:07:41 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1vlTjkoRqPU7wYGLpSMR6DBZPc4ZBugEY&amp;export=download&amp;confirm=t" length="29506018" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1vlTjkoRqPU7wYGLpSMR6DBZPc4ZBugEY</guid>
     </item>
     <item>
       <title>Bouw je eigen AI-interieurontwerper</title>
       <description>Nederlandstalige podcast — 2026-06-12</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-06-12</itunes:summary>
       <pubDate>Fri, 12 Jun 2026 17:06:15 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=18tKwgmbMMWx-GFUx_viS1E4vFHcd6PEM&amp;export=download&amp;confirm=t" length="34260418" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">18tKwgmbMMWx-GFUx_viS1E4vFHcd6PEM</guid>
     </item>
     <item>
       <title>De AI-race verplaatst zich naar de beurs</title>
       <description>Nederlandstalige podcast — 2026-05-27</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-05-27</itunes:summary>
       <pubDate>Wed, 27 May 2026 23:20:01 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1vDa090hreAHphWaFqPPXF8jTIL2fa5fN&amp;export=download&amp;confirm=t" length="24747241" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1vDa090hreAHphWaFqPPXF8jTIL2fa5fN</guid>
     </item>
     <item>
       <title>Claude Code voor beginners</title>
       <description>Nederlandstalige podcast — 2026-05-27</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-05-27</itunes:summary>
       <pubDate>Wed, 27 May 2026 23:07:05 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1Sb6hnsAm0ocqt6clhx9mQncG1viS843b&amp;export=download&amp;confirm=t" length="21218417" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1Sb6hnsAm0ocqt6clhx9mQncG1viS843b</guid>
     </item>
     <item>
       <title>Skills en subagents</title>
       <description>Nederlandstalige podcast — 2026-05-27</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-05-27</itunes:summary>
       <pubDate>Wed, 27 May 2026 22:54:08 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1O5klnzIBluTcWCZzvjSOHBWOOThXJXCr&amp;export=download&amp;confirm=t" length="49721466" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1O5klnzIBluTcWCZzvjSOHBWOOThXJXCr</guid>
     </item>
     <item>
       <title>Laat je vrienden inloggen op jouw app</title>
       <description>Nederlandstalige podcast — 2026-05-27</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-05-27</itunes:summary>
       <pubDate>Wed, 27 May 2026 22:40:09 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1D_AOgMMEKcdUiXbkjSf2ZgCNM1SWtW0F&amp;export=download&amp;confirm=t" length="31431086" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1D_AOgMMEKcdUiXbkjSf2ZgCNM1SWtW0F</guid>
     </item>
     <item>
       <title>Bouw je persoonlijke assistent met Cowork</title>
       <description>Nederlandstalige podcast — 2026-05-27</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-05-27</itunes:summary>
       <pubDate>Wed, 27 May 2026 22:28:42 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1e1S_r2mZAT8phszLPvDzANyfW5wosaKS&amp;export=download&amp;confirm=t" length="29118937" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1e1S_r2mZAT8phszLPvDzANyfW5wosaKS</guid>
     </item>
     <item>
       <title>Zo haal je het maximale uit Microsoft Copilot</title>
       <description>Nederlandstalige podcast — 2026-05-27</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-05-27</itunes:summary>
       <pubDate>Wed, 27 May 2026 22:14:47 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1_ZIn_zQ1iMC-GYmaszD5plzM-ae1ujPQ&amp;export=download&amp;confirm=t" length="37375981" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1_ZIn_zQ1iMC-GYmaszD5plzM-ae1ujPQ</guid>
     </item>
     <item>
       <title>Zo zit het met AI en privacy</title>
       <description>Nederlandstalige podcast — 2026-05-27</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-05-27</itunes:summary>
       <pubDate>Wed, 27 May 2026 22:01:40 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=159lavuwwfsoPgEulTO5fU3kyz2ghgEFx&amp;export=download&amp;confirm=t" length="41801568" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">159lavuwwfsoPgEulTO5fU3kyz2ghgEFx</guid>
     </item>
     <item>
       <title>Zo stap je over van ChatGPT naar Claude</title>
       <description>Nederlandstalige podcast — 2026-05-26</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-05-26</itunes:summary>
       <pubDate>Tue, 26 May 2026 07:14:30 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1wZBVvZ41qkK1FZ1iPg5Wd31-XqQYCqFr&amp;export=download&amp;confirm=t" length="42912762" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1wZBVvZ41qkK1FZ1iPg5Wd31-XqQYCqFr</guid>
     </item>
     <item>
       <title>Bescherm vertrouwelijke data met lokale AI</title>
       <description>Nederlandstalige podcast — 2026-05-25</description>
+      <itunes:summary>Nederlandstalige podcast — 2026-05-25</itunes:summary>
       <pubDate>Mon, 25 May 2026 20:58:24 GMT</pubDate>
       <enclosure url="https://drive.usercontent.google.com/download?id=1XTxs6vHk3hE0dwGDah4UFnqgf9SQsbVq&amp;export=download&amp;confirm=t" length="32578254" type="audio/mp4"/>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">1XTxs6vHk3hE0dwGDah4UFnqgf9SQsbVq</guid>
     </item>
   </channel>
