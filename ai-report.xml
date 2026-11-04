@@ -8,13 +8,30 @@
     <language>nl</language>
     <link>https://legalfiction.github.io/podcast-feeds/ai-report.xml</link>
     <atom:link href="https://legalfiction.github.io/podcast-feeds/ai-report.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 03 Nov 2026 18:11:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 09:49:35 GMT</lastBuildDate>
     <itunes:language>nl</itunes:language>
     <itunes:author>AI Report Podcast</itunes:author>
     <itunes:summary>AI Report Podcast: Nederlandstalige podcast, gemaakt met AI uit nieuwsbrieven en artikelen.</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>De AI-sector vindt eindelijk zijn lastigste test: politiek</title>
+      <description>Over deze reeksElke zaterdag publiceert AI Report een Nederlandse vertaling van een artikel dat Alberto Romero schreef voor The Algorithmic Bridge. Hij stelt voor dat de sector de ontwikkeling van nieuwe AI-capaciteiten vertraagt en intussen uitzoekt hoe het veilig kan doorgaan.
+
+Bron: https://www.aireport.nl/p/de-ai-sector-vindt-eindelijk-zijn-lastigste-test-politiek
+AI Report Podcast · 2026-11-04. Nederlandstalige podcast, gemaakt met AI.</description>
+      <itunes:summary>Over deze reeksElke zaterdag publiceert AI Report een Nederlandse vertaling van een artikel dat Alberto Romero schreef voor The Algorithmic Bridge. Hij stelt voor dat de sector de ontwikkeling van nieuwe AI-capaciteiten vertraagt en intussen uitzoekt hoe het veilig kan doorgaan.
+
+Bron: https://www.aireport.nl/p/de-ai-sector-vindt-eindelijk-zijn-lastigste-test-politiek
+AI Report Podcast · 2026-11-04. Nederlandstalige podcast, gemaakt met AI.</itunes:summary>
+      <pubDate>Wed, 04 Nov 2026 09:49:35 GMT</pubDate>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1ykYdR3ujcVYrRiGLIW5BSCIAt7XzIZc3&amp;export=download&amp;confirm=t" length="14814361" type="audio/mp4"/>
+      <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">1ykYdR3ujcVYrRiGLIW5BSCIAt7XzIZc3</guid>
+    </item>
     <item>
       <title>Is jouw website klaar voor AI-agents? Test het gratis</title>
       <description>🗞️ Het belangrijkste nieuwsGoogle lanceert topmodel én verliest 500 miljard dollar beurswaarde op één dagGoogle heeft na maanden achterstand weer het hoogst scorende AI-model op een belangrijke ranglijst, en een dag later verdween er zo&apos;n 500 miljard dollar aan beurswaarde.
