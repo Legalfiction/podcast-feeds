@@ -8,13 +8,30 @@
     <language>nl</language>
     <link>https://legalfiction.github.io/podcast-feeds/ai-report.xml</link>
     <atom:link href="https://legalfiction.github.io/podcast-feeds/ai-report.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 04 Nov 2026 09:49:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 20:11:02 GMT</lastBuildDate>
     <itunes:language>nl</itunes:language>
     <itunes:author>AI Report Podcast</itunes:author>
     <itunes:summary>AI Report Podcast: Nederlandstalige podcast, gemaakt met AI uit nieuwsbrieven en artikelen.</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Masterclass: anti-slop, zo voorkom je matige AI-output</title>
+      <description>▶ Log in om de masterclass te kijken Betaald abonnee? Log in en de video start hier. Nog geen abonnee? Met een betaald abonnement kijk je deze en alle eerdere masterclasses, met alle stappen en prompts van Wietse. De eerste stappen lees je hieronder sowieso.
+
+Bron: https://www.aireport.nl/p/masterclass-anti-slop-zo-voorkom-je-matige-ai-output
+AI Report Podcast · 2026-11-04. Nederlandstalige podcast, gemaakt met AI.</description>
+      <itunes:summary>▶ Log in om de masterclass te kijken Betaald abonnee? Log in en de video start hier. Nog geen abonnee? Met een betaald abonnement kijk je deze en alle eerdere masterclasses, met alle stappen en prompts van Wietse. De eerste stappen lees je hieronder sowieso.
+
+Bron: https://www.aireport.nl/p/masterclass-anti-slop-zo-voorkom-je-matige-ai-output
+AI Report Podcast · 2026-11-04. Nederlandstalige podcast, gemaakt met AI.</itunes:summary>
+      <pubDate>Wed, 04 Nov 2026 20:11:02 GMT</pubDate>
+      <enclosure url="https://drive.usercontent.google.com/download?id=17Xnaz6ojjdMtbE6T_-05lcd1ckyg8gc5&amp;export=download&amp;confirm=t" length="23164390" type="audio/mp4"/>
+      <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">17Xnaz6ojjdMtbE6T_-05lcd1ckyg8gc5</guid>
+    </item>
     <item>
       <title>De AI-sector vindt eindelijk zijn lastigste test: politiek</title>
       <description>Over deze reeksElke zaterdag publiceert AI Report een Nederlandse vertaling van een artikel dat Alberto Romero schreef voor The Algorithmic Bridge. Hij stelt voor dat de sector de ontwikkeling van nieuwe AI-capaciteiten vertraagt en intussen uitzoekt hoe het veilig kan doorgaan.
