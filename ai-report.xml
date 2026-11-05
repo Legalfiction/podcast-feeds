@@ -8,13 +8,30 @@
     <language>nl</language>
     <link>https://legalfiction.github.io/podcast-feeds/ai-report.xml</link>
     <atom:link href="https://legalfiction.github.io/podcast-feeds/ai-report.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 05 Nov 2026 11:13:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 12:11:35 GMT</lastBuildDate>
     <itunes:language>nl</itunes:language>
     <itunes:author>AI Report Podcast</itunes:author>
     <itunes:summary>AI Report Podcast: Nederlandstalige podcast, gemaakt met AI uit nieuwsbrieven en artikelen.</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>AI kraakt binnen weken de ene na de andere wetenschappelijke puzzel</title>
+      <description>🛠️ Agent Week: bouw deze week je eigen AI-collegaDeze week bouwen we samen met Xiang een eigen AI-collega: eentje die weet hoe jij werkt en je helpt met taken die steeds terugkomen. Programmeren hoeft niet. En je kunt nog gewoon instappen.
+
+Bron: https://www.aireport.nl/p/ai-kraakt-binnen-weken-de-ene-na-de-andere-wetenschappelijke-puzzel
+AI Report Podcast · 2026-11-05. Nederlandstalige podcast, gemaakt met AI.</description>
+      <itunes:summary>🛠️ Agent Week: bouw deze week je eigen AI-collegaDeze week bouwen we samen met Xiang een eigen AI-collega: eentje die weet hoe jij werkt en je helpt met taken die steeds terugkomen. Programmeren hoeft niet. En je kunt nog gewoon instappen.
+
+Bron: https://www.aireport.nl/p/ai-kraakt-binnen-weken-de-ene-na-de-andere-wetenschappelijke-puzzel
+AI Report Podcast · 2026-11-05. Nederlandstalige podcast, gemaakt met AI.</itunes:summary>
+      <pubDate>Thu, 05 Nov 2026 12:11:35 GMT</pubDate>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1LC60IWPIsmP5OygkaZ_2UGItQDqi51SA&amp;export=download&amp;confirm=t" length="21746153" type="audio/mp4"/>
+      <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">1LC60IWPIsmP5OygkaZ_2UGItQDqi51SA</guid>
+    </item>
     <item>
       <title>AI Report Masterclasses</title>
       <description>Het begon in januari 2026 met één vraag: kun je een app bouwen als je niet kunt programmeren? Wietse opende Claude Code, kijkers stuurden hun ideeën in via de chat, en een uur later stonden er vier werkende apps. Sindsdien is de reeks een stuk breder geworden dan die ene tool.
