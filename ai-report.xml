@@ -8,13 +8,30 @@
     <language>nl</language>
     <link>https://legalfiction.github.io/podcast-feeds/ai-report.xml</link>
     <atom:link href="https://legalfiction.github.io/podcast-feeds/ai-report.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 04 Nov 2026 20:11:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 11:13:52 GMT</lastBuildDate>
     <itunes:language>nl</itunes:language>
     <itunes:author>AI Report Podcast</itunes:author>
     <itunes:summary>AI Report Podcast: Nederlandstalige podcast, gemaakt met AI uit nieuwsbrieven en artikelen.</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>AI Report Masterclasses</title>
+      <description>Het begon in januari 2026 met één vraag: kun je een app bouwen als je niet kunt programmeren? Wietse opende Claude Code, kijkers stuurden hun ideeën in via de chat, en een uur later stonden er vier werkende apps. Sindsdien is de reeks een stuk breder geworden dan die ene tool.
+
+Bron: https://www.aireport.nl/p/masterclasses
+AI Report Podcast · 2026-11-05. Nederlandstalige podcast, gemaakt met AI.</description>
+      <itunes:summary>Het begon in januari 2026 met één vraag: kun je een app bouwen als je niet kunt programmeren? Wietse opende Claude Code, kijkers stuurden hun ideeën in via de chat, en een uur later stonden er vier werkende apps. Sindsdien is de reeks een stuk breder geworden dan die ene tool.
+
+Bron: https://www.aireport.nl/p/masterclasses
+AI Report Podcast · 2026-11-05. Nederlandstalige podcast, gemaakt met AI.</itunes:summary>
+      <pubDate>Thu, 05 Nov 2026 11:13:52 GMT</pubDate>
+      <enclosure url="https://drive.usercontent.google.com/download?id=155tgzJiZGVjOvQf6p_190SFUNkAh6kQO&amp;export=download&amp;confirm=t" length="33438386" type="audio/mp4"/>
+      <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">155tgzJiZGVjOvQf6p_190SFUNkAh6kQO</guid>
+    </item>
     <item>
       <title>Masterclass: anti-slop, zo voorkom je matige AI-output</title>
       <description>▶ Log in om de masterclass te kijken Betaald abonnee? Log in en de video start hier. Nog geen abonnee? Met een betaald abonnement kijk je deze en alle eerdere masterclasses, met alle stappen en prompts van Wietse. De eerste stappen lees je hieronder sowieso.
