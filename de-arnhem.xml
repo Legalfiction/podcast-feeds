@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>De Arnhem</title>
+    <description>De Arnhem: het jacht dat Arnhemland zijn naam gaf. Een podcast bij het boek van Aldo Huizinga over een VOC-reis in de Gouden Eeuw, van de Rijn naar het Zuidland. Gemaakt met AI uit de boektekst.</description>
+    <language>nl</language>
+    <link>https://legalfiction.github.io/podcast-feeds/de-arnhem.xml</link>
+    <atom:link href="https://legalfiction.github.io/podcast-feeds/de-arnhem.xml" rel="self" type="application/rss+xml"/>
+    <itunes:language>nl</itunes:language>
+    <itunes:author>Aldo Huizinga</itunes:author>
+    <itunes:image href="https://legalfiction.github.io/podcast-feeds/de-arnhem.jpg"/>
+    <image><url>https://legalfiction.github.io/podcast-feeds/de-arnhem.jpg</url><title>De Arnhem</title><link>https://legalfiction.github.io/podcast-feeds/de-arnhem.xml</link></image>
+
+    <itunes:summary>De Arnhem: het jacht dat Arnhemland zijn naam gaf. Een podcast bij het boek van Aldo Huizinga over een VOC-reis in de Gouden Eeuw, van de Rijn naar het Zuidland. Gemaakt met AI uit de boektekst.</itunes:summary>
+    <itunes:type>serial</itunes:type>
+    <itunes:category text="History"/>
+    <itunes:explicit>false</itunes:explicit>
+
+  </channel>
+</rss>
