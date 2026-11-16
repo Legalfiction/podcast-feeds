@@ -8,13 +8,32 @@
     <language>nl</language>
     <link>https://legalfiction.github.io/podcast-feeds/ai-report.xml</link>
     <atom:link href="https://legalfiction.github.io/podcast-feeds/ai-report.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 05 Nov 2026 19:11:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 21:11:06 GMT</lastBuildDate>
     <itunes:language>nl</itunes:language>
     <itunes:author>AI Report Podcast</itunes:author>
+
     <itunes:summary>AI Report Podcast: Nederlandstalige podcast, gemaakt met AI uit nieuwsbrieven en artikelen.</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Hoe de paniek rond AI-teksten ons slechtere schrijvers maakt</title>
+      <description>Over deze reeksElke zaterdag publiceert AI Report een Nederlandse vertaling van een artikel dat Alberto Romero schreef voor The Algorithmic Bridge. Vertaling en eindredactie: Erwin van Wouw[Originele versie in het Engels]Een kort essay.
+
+Bron: https://www.aireport.nl/p/hoe-de-paniek-rond-ai-teksten-ons-slechtere-schrijvers-maakt
+AI Report Podcast · 2026-11-16. Nederlandstalige podcast, gemaakt met AI.</description>
+      <itunes:summary>Over deze reeksElke zaterdag publiceert AI Report een Nederlandse vertaling van een artikel dat Alberto Romero schreef voor The Algorithmic Bridge. Vertaling en eindredactie: Erwin van Wouw[Originele versie in het Engels]Een kort essay.
+
+Bron: https://www.aireport.nl/p/hoe-de-paniek-rond-ai-teksten-ons-slechtere-schrijvers-maakt
+AI Report Podcast · 2026-11-16. Nederlandstalige podcast, gemaakt met AI.</itunes:summary>
+      <pubDate>Mon, 16 Nov 2026 21:11:06 GMT</pubDate>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1Ul0ulP28NLpcqa3iUXvB97Vo1JOcvdwd&amp;export=download&amp;confirm=t" length="25476462" type="audio/mp4"/>
+      <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+
+      <guid isPermaLink="false">1Ul0ulP28NLpcqa3iUXvB97Vo1JOcvdwd</guid>
+    </item>
     <item>
       <title>Bouw van AI-datacenters onzeker na Amerikaanse verkiezingen</title>
       <description>🗞️ Het belangrijkste nieuwsBouw van AI-datacenters onzeker na Amerikaanse verkiezingenAmerikaanse kiezers hebben de bouw van AI-datacenters dinsdag een gevoelige slag toegebracht. In minstens 38 gemeenten en gebieden stemden ze voor verboden of beperkingen.
@@ -30,6 +49,7 @@ AI Report Podcast · 2026-11-05. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1o8Si9ksUEqrbAifaIL9hkDd3UFwHEFx1</guid>
     </item>
     <item>
@@ -47,6 +67,7 @@ AI Report Podcast · 2026-11-05. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1th3Ti42NJVQX2ASfjzD7wq_TUScdtrrF</guid>
     </item>
     <item>
@@ -64,6 +85,7 @@ AI Report Podcast · 2026-11-05. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1sz2Ggkpl5clUN09Cx_eGeZ7hhB3QzENx</guid>
     </item>
     <item>
@@ -81,6 +103,7 @@ AI Report Podcast · 2026-11-05. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1pkKRHcQkJcKbcGq_eC2uE5QvOTzvnFg6</guid>
     </item>
     <item>
@@ -98,6 +121,7 @@ AI Report Podcast · 2026-11-05. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1hm86gfcg1ngh9vVulBi79720Z4PcJpfl</guid>
     </item>
     <item>
@@ -115,6 +139,7 @@ AI Report Podcast · 2026-11-05. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1JJg4gL_mePm4QgEZm-9SSfT5WALjTfdF</guid>
     </item>
     <item>
@@ -132,6 +157,7 @@ AI Report Podcast · 2026-11-05. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1IDvIFqsKXO7cdbtDhJP3McMHquAXVhTx</guid>
     </item>
     <item>
@@ -149,6 +175,7 @@ AI Report Podcast · 2026-11-05. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1LC60IWPIsmP5OygkaZ_2UGItQDqi51SA</guid>
     </item>
     <item>
@@ -166,6 +193,7 @@ AI Report Podcast · 2026-11-05. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">155tgzJiZGVjOvQf6p_190SFUNkAh6kQO</guid>
     </item>
     <item>
@@ -183,6 +211,7 @@ AI Report Podcast · 2026-11-04. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">17Xnaz6ojjdMtbE6T_-05lcd1ckyg8gc5</guid>
     </item>
     <item>
@@ -200,6 +229,7 @@ AI Report Podcast · 2026-11-04. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1ykYdR3ujcVYrRiGLIW5BSCIAt7XzIZc3</guid>
     </item>
     <item>
@@ -217,6 +247,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1L62CyM-_uOZGchVkw1Em4I-5LlEc1QQD</guid>
     </item>
     <item>
@@ -234,6 +265,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1RgBOoTaV4K27sF2TLcRWN6LFIP8qT5Uj</guid>
     </item>
     <item>
@@ -245,6 +277,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1mkcVst34VhupGvSX6HVSNuChX1KguiVf</guid>
     </item>
     <item>
@@ -256,6 +289,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">12soaJrNKq1-Q-iz36Xggs3vNmvtcMlyL</guid>
     </item>
     <item>
@@ -267,6 +301,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">13xOFkTlYjub8F-I0ryQj1J8Kr6ysq1FE</guid>
     </item>
     <item>
@@ -278,6 +313,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1qSHwOSXURTs40s7rPtQufl-Zygo_SBNA</guid>
     </item>
     <item>
@@ -289,6 +325,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1TZ326d7dozr5xgttEhvVDB9TmzmAbXBL</guid>
     </item>
     <item>
@@ -300,6 +337,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1rKnEJBd7jwZxU0MZRY4oyjt_wpldJBFY</guid>
     </item>
     <item>
@@ -311,6 +349,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1BII2Cc9_Qeio_V407tCAl-ESHvPgB26o</guid>
     </item>
     <item>
@@ -322,6 +361,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1TEDGNGOYtzaAj_T2FyVp4XkfJ7vAR83T</guid>
     </item>
     <item>
@@ -333,6 +373,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1rSIM4UKHrV8UDHLQSSm4MppPFGQ2utkG</guid>
     </item>
     <item>
@@ -344,6 +385,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1Hscpb9DGQ9Wc9ehL1gIADNC0M8dVBNYu</guid>
     </item>
     <item>
@@ -355,6 +397,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1U3x6Q3KJp0Y8sv2T49nC9gOZIb0UmAsL</guid>
     </item>
     <item>
@@ -366,6 +409,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">108C6CPZq09USdtRMuMJ6BbnZsXWpesdc</guid>
     </item>
     <item>
@@ -377,6 +421,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1HADZ6K2CisufOhJnfPbdXZJh3TRPBlk4</guid>
     </item>
     <item>
@@ -388,6 +433,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1a7WG6QRGcuprsGvDVRPghsVeiApKnl4f</guid>
     </item>
     <item>
@@ -399,6 +445,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1fP0JTSgdPW1slwI6sHbdhIIQ15u8S64k</guid>
     </item>
     <item>
@@ -410,6 +457,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">123O4pZ4DXxVb1p7AFXUppNVsHACwtA2r</guid>
     </item>
     <item>
@@ -421,6 +469,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1j6nW_f6cYEZaXZWYzmt3ME7HiBrweMzB</guid>
     </item>
     <item>
@@ -432,6 +481,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1_LkPw-uoqZKtgs2Ljd7yVYg1JDuCvoHH</guid>
     </item>
     <item>
@@ -443,6 +493,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1Ku7DFCTKH19BWlxzwdsrfwGod6NKo_Up</guid>
     </item>
     <item>
@@ -454,6 +505,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1a8jY5a_pXTumA7WOW4H6cqSoSLGJjA1i</guid>
     </item>
     <item>
@@ -465,6 +517,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1XHeynQGmESC6-YIIq4j8DGwv032tGAOE</guid>
     </item>
     <item>
@@ -476,6 +529,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1swGOwbDFG1m0KogZRpos64NQP905-h30</guid>
     </item>
     <item>
@@ -487,6 +541,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">11orYdv9r2cEZcp00ZVd4YU-HsG6XgLf5</guid>
     </item>
     <item>
@@ -498,6 +553,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1oa8C-1VGOLv7MM28w1URdkMd5ZUnvtQo</guid>
     </item>
     <item>
@@ -509,6 +565,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1nDj25Jc5MiJJ3k0PKSN-ZklGg1lzEwO1</guid>
     </item>
     <item>
@@ -520,6 +577,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1VZRcFFLhIoRAWIiHJsE0UGp_T2gVn8no</guid>
     </item>
     <item>
@@ -531,6 +589,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1FXjYfWZEDvhST-XJ74pnOg2nqk7q9nik</guid>
     </item>
     <item>
@@ -542,6 +601,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1PAGhxK-OjzduOKDVTh4t46Q0GId8Hwz5</guid>
     </item>
     <item>
@@ -553,6 +613,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1fsZXxyhY1-mLVfXDjuUwKOe30yO1ww7o</guid>
     </item>
     <item>
@@ -564,6 +625,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1vJjPiYVBKRJ13dKnlVpM2DfvrvbT8wkp</guid>
     </item>
     <item>
@@ -575,6 +637,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1i6saDx5QqBGZY-lB3iZ4aVurKbRlr132</guid>
     </item>
     <item>
@@ -586,6 +649,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1pdd2gdshFpghigoGCGNfq7jXOzGFTl0x</guid>
     </item>
     <item>
@@ -597,6 +661,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">14yu2PmDElrLPcgghJVAjZ18Tkde3iHyR</guid>
     </item>
     <item>
@@ -608,6 +673,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1EQTXG0C2RFlDmFqQypjpxI4DVo5vDOQ9</guid>
     </item>
     <item>
@@ -619,6 +685,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1E9T75fTlM431RxQCZ1XSGzBkaF6eWpea</guid>
     </item>
     <item>
@@ -630,6 +697,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1Yk8Euj0TgP3QyMlcRTFcEKS2U2UcFQ6C</guid>
     </item>
     <item>
@@ -641,6 +709,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">14FL42tdEkdjxMTkSenedb6frA1iep-HO</guid>
     </item>
     <item>
@@ -652,6 +721,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1cfPW1Rh-PC8LqSgI3D0dhbFJ5SAelnkf</guid>
     </item>
     <item>
@@ -663,6 +733,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1nXyxjAtPAjhZFDHRjFSRbS3Nc8aL-ue1</guid>
     </item>
     <item>
@@ -674,6 +745,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1-wPbt5qtL7_cz8sazzu2djG7P4wBjpGL</guid>
     </item>
     <item>
@@ -685,6 +757,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1TpZF0Jrry8Z8r4l8TgCo4Nxc0aTTrxxZ</guid>
     </item>
     <item>
@@ -696,6 +769,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1rUM4Xfi0Mg2W65RfUWHo0sPRu9s_Nk36</guid>
     </item>
     <item>
@@ -707,6 +781,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1w_uAZ2OVDg0yjj1jOzHTNcsy7uD7oga-</guid>
     </item>
     <item>
@@ -718,6 +793,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1ZTzYCw-y1HvE0G4R_-GYk5ysLM9nP6mc</guid>
     </item>
     <item>
@@ -729,6 +805,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1YtGxrbGS9WKK9DAoc5XXsH204VziNFJg</guid>
     </item>
     <item>
@@ -740,6 +817,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1458rNyZp76vTia1C0BTNQ_HqccuV2t30</guid>
     </item>
     <item>
@@ -751,6 +829,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1f_Qn4MT00oS5DWZ0PCVWaPLec2zqkyFv</guid>
     </item>
     <item>
@@ -762,6 +841,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1FkRSPtet_RDBXjVSTNb1SvIe5Ab6x6hJ</guid>
     </item>
     <item>
@@ -773,6 +853,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1uyhB5CWb_ekp8thFIa4ZMXLbHLGeUntg</guid>
     </item>
     <item>
@@ -784,6 +865,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1ALH0P7hVVP5P1B3yihkY8Eit1Z_mTS6r</guid>
     </item>
     <item>
@@ -795,6 +877,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">14UQ4iaFUmyjQFNr7lXxFGUmc3aRHBcuO</guid>
     </item>
     <item>
@@ -806,6 +889,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1Rgr7DMgr5rXDXUJggOcUay33wINdjAhB</guid>
     </item>
     <item>
@@ -817,6 +901,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1BfKrfPPdIdz9XmL_-SdzmndzdCn_ldhr</guid>
     </item>
     <item>
@@ -828,6 +913,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1j1BQDs-ffORCr_z_XQ9xy9svRLY6KAYK</guid>
     </item>
     <item>
@@ -839,6 +925,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1RUWbmPeJLatPOKHWv6T15UW9PT0QqHn7</guid>
     </item>
     <item>
@@ -850,6 +937,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1WY9byj6pZA5IM6Etmy2Agv0QiqOY1yRP</guid>
     </item>
     <item>
@@ -861,6 +949,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1FXoPesbAvJB1gwtY_baHLr94u3fZPPgf</guid>
     </item>
     <item>
@@ -872,6 +961,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1fs9h1C-_y8dNoEEWy7vCRGrP0_1bJae0</guid>
     </item>
     <item>
@@ -883,6 +973,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1vlTjkoRqPU7wYGLpSMR6DBZPc4ZBugEY</guid>
     </item>
     <item>
@@ -894,6 +985,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">18tKwgmbMMWx-GFUx_viS1E4vFHcd6PEM</guid>
     </item>
     <item>
@@ -905,6 +997,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1vDa090hreAHphWaFqPPXF8jTIL2fa5fN</guid>
     </item>
     <item>
@@ -916,6 +1009,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1Sb6hnsAm0ocqt6clhx9mQncG1viS843b</guid>
     </item>
     <item>
@@ -927,6 +1021,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1O5klnzIBluTcWCZzvjSOHBWOOThXJXCr</guid>
     </item>
     <item>
@@ -938,6 +1033,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1D_AOgMMEKcdUiXbkjSf2ZgCNM1SWtW0F</guid>
     </item>
     <item>
@@ -949,6 +1045,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1e1S_r2mZAT8phszLPvDzANyfW5wosaKS</guid>
     </item>
     <item>
@@ -960,6 +1057,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1_ZIn_zQ1iMC-GYmaszD5plzM-ae1ujPQ</guid>
     </item>
     <item>
@@ -971,6 +1069,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">159lavuwwfsoPgEulTO5fU3kyz2ghgEFx</guid>
     </item>
     <item>
@@ -982,6 +1081,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1wZBVvZ41qkK1FZ1iPg5Wd31-XqQYCqFr</guid>
     </item>
     <item>
@@ -993,6 +1093,7 @@ AI Report Podcast · 2026-11-03. Nederlandstalige podcast, gemaakt met AI.</itun
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+
       <guid isPermaLink="false">1XTxs6vHk3hE0dwGDah4UFnqgf9SQsbVq</guid>
     </item>
   </channel>
