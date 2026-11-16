@@ -8,7 +8,7 @@
     <language>nl</language>
     <link>https://legalfiction.github.io/podcast-feeds/ai-report.xml</link>
     <atom:link href="https://legalfiction.github.io/podcast-feeds/ai-report.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 16 Nov 2026 21:11:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 22:10:19 GMT</lastBuildDate>
     <itunes:language>nl</itunes:language>
     <itunes:author>AI Report Podcast</itunes:author>
 
@@ -16,6 +16,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>AI vond alle elf valkuilen in onze testcontracten</title>
+      <description>🗞️ Het belangrijkste nieuwsAI versnelt eigen ontwikkeling, mogelijk sneller dan het snelste scenarioAnthropic, de maker van Claude, verbetert zijn AI-modellen ongeveer twee keer zo snel als een jaar geleden, en dat komt grotendeels door AI zelf.
+
+Bron: https://www.aireport.nl/p/ai-vond-alle-elf-valkuilen-in-onze-testcontracten
+AI Report Podcast · 2026-11-16. Nederlandstalige podcast, gemaakt met AI.</description>
+      <itunes:summary>🗞️ Het belangrijkste nieuwsAI versnelt eigen ontwikkeling, mogelijk sneller dan het snelste scenarioAnthropic, de maker van Claude, verbetert zijn AI-modellen ongeveer twee keer zo snel als een jaar geleden, en dat komt grotendeels door AI zelf.
+
+Bron: https://www.aireport.nl/p/ai-vond-alle-elf-valkuilen-in-onze-testcontracten
+AI Report Podcast · 2026-11-16. Nederlandstalige podcast, gemaakt met AI.</itunes:summary>
+      <pubDate>Mon, 16 Nov 2026 22:10:19 GMT</pubDate>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1VQnIl24f4T6eAun6SfHVwHI-hvao_nAp&amp;export=download&amp;confirm=t" length="15056304" type="audio/mp4"/>
+      <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+
+      <guid isPermaLink="false">1VQnIl24f4T6eAun6SfHVwHI-hvao_nAp</guid>
+    </item>
     <item>
       <title>Hoe de paniek rond AI-teksten ons slechtere schrijvers maakt</title>
       <description>Over deze reeksElke zaterdag publiceert AI Report een Nederlandse vertaling van een artikel dat Alberto Romero schreef voor The Algorithmic Bridge. Vertaling en eindredactie: Erwin van Wouw[Originele versie in het Engels]Een kort essay.
