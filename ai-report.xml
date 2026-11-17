@@ -8,7 +8,7 @@
     <language>nl</language>
     <link>https://legalfiction.github.io/podcast-feeds/ai-report.xml</link>
     <atom:link href="https://legalfiction.github.io/podcast-feeds/ai-report.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 16 Nov 2026 23:11:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 00:08:11 GMT</lastBuildDate>
     <itunes:language>nl</itunes:language>
     <itunes:author>AI Report Podcast</itunes:author>
 
@@ -16,6 +16,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Masterclass: je eigen softwarefabriek met Claude Fable 5.2</title>
+      <description>▶ Log in om de masterclass te kijken Betaald abonnee? Log in en de video start hier. Nog geen abonnee? Met een betaald abonnement kijk je deze en alle eerdere masterclasses, met alle stappen en prompts van Wietse. De eerste stappen lees je hieronder sowieso.
+
+Bron: https://www.aireport.nl/p/masterclass-je-eigen-softwarefabriek-met-claude-fable-5-2
+AI Report Podcast · 2026-11-17. Nederlandstalige podcast, gemaakt met AI.</description>
+      <itunes:summary>▶ Log in om de masterclass te kijken Betaald abonnee? Log in en de video start hier. Nog geen abonnee? Met een betaald abonnement kijk je deze en alle eerdere masterclasses, met alle stappen en prompts van Wietse. De eerste stappen lees je hieronder sowieso.
+
+Bron: https://www.aireport.nl/p/masterclass-je-eigen-softwarefabriek-met-claude-fable-5-2
+AI Report Podcast · 2026-11-17. Nederlandstalige podcast, gemaakt met AI.</itunes:summary>
+      <pubDate>Tue, 17 Nov 2026 00:08:11 GMT</pubDate>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1-EA36G7pJNxON5cKs2CkM_DZXxhUDD0T&amp;export=download&amp;confirm=t" length="12533688" type="audio/mp4"/>
+      <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+
+      <guid isPermaLink="false">1-EA36G7pJNxON5cKs2CkM_DZXxhUDD0T</guid>
+    </item>
     <item>
       <title>Deze Claude Fable 5.2-prompts wil je testen vóór dinsdag</title>
       <description>2 ontwerpt onder meer besturingssysteem en hardwareEen werkend besturingssysteem, in acht dagen gebouwd door ruim duizend AI-agents. Nieuw ontworpen apparaten die het na een prompt van één alinea meteen deden.
