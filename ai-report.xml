@@ -8,7 +8,7 @@
     <language>nl</language>
     <link>https://legalfiction.github.io/podcast-feeds/ai-report.xml</link>
     <atom:link href="https://legalfiction.github.io/podcast-feeds/ai-report.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 17 Nov 2026 01:08:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 13:11:31 GMT</lastBuildDate>
     <itunes:language>nl</itunes:language>
     <itunes:author>AI Report Podcast</itunes:author>
 
@@ -16,6 +16,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Zeven promptgewoontes die je voor 1 januari wilt afleren</title>
+      <description>🗞️ Het belangrijkste nieuwsWat NVIDIA zonder Jensen Huang betekent voor AIJensen Huang is sinds vorige week donderdag weg bij NVIDIA, het bedrijf dat de chips maakt waarop vrijwel alle grote AI-modellen worden getraind.
+
+Bron: https://www.aireport.nl/p/zeven-promptgewoontes-die-je-voor-1-januari-wilt-afleren
+AI Report Podcast · 2026-11-17. Nederlandstalige podcast, gemaakt met AI.</description>
+      <itunes:summary>🗞️ Het belangrijkste nieuwsWat NVIDIA zonder Jensen Huang betekent voor AIJensen Huang is sinds vorige week donderdag weg bij NVIDIA, het bedrijf dat de chips maakt waarop vrijwel alle grote AI-modellen worden getraind.
+
+Bron: https://www.aireport.nl/p/zeven-promptgewoontes-die-je-voor-1-januari-wilt-afleren
+AI Report Podcast · 2026-11-17. Nederlandstalige podcast, gemaakt met AI.</itunes:summary>
+      <pubDate>Tue, 17 Nov 2026 13:11:31 GMT</pubDate>
+      <enclosure url="https://drive.usercontent.google.com/download?id=18aJL89Lll1iKBoZlwECGOzKIn0Cr8g7-&amp;export=download&amp;confirm=t" length="25177044" type="audio/mp4"/>
+      <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+
+      <guid isPermaLink="false">18aJL89Lll1iKBoZlwECGOzKIn0Cr8g7-</guid>
+    </item>
     <item>
       <title>De AI-industrie denkt dat ze een PR-probleem heeft. Het werkelijke probleem is veel erger</title>
       <description>Over deze reeksElke zaterdag publiceert AI Report een Nederlandse vertaling van een artikel dat Alberto Romero schreef voor The Algorithmic Bridge.
