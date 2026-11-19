@@ -8,7 +8,7 @@
     <language>nl</language>
     <link>https://legalfiction.github.io/podcast-feeds/ai-report.xml</link>
     <atom:link href="https://legalfiction.github.io/podcast-feeds/ai-report.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 17 Nov 2026 13:11:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 12:10:52 GMT</lastBuildDate>
     <itunes:language>nl</itunes:language>
     <itunes:author>AI Report Podcast</itunes:author>
 
@@ -16,6 +16,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Nieuwe ChatGPT Astra scoort goed op papier, slecht in de praktijk</title>
+      <description>2 Sol. Op papier is Astra een stap vooruit: goedkoper dan zijn voorganger en het eerste model met een perfecte score op ARC-AGI-3, een bekende puzzeltest die geldt als &apos;IQ-test&apos; voor AI en meet of een model nieuwe problemen even goed oplost als een mens.
+
+Bron: https://www.aireport.nl/p/nieuwe-chatgpt-astra-scoort-goed-op-papier-slecht-in-de-praktijk
+AI Report Podcast · 2026-11-19. Nederlandstalige podcast, gemaakt met AI.</description>
+      <itunes:summary>2 Sol. Op papier is Astra een stap vooruit: goedkoper dan zijn voorganger en het eerste model met een perfecte score op ARC-AGI-3, een bekende puzzeltest die geldt als &apos;IQ-test&apos; voor AI en meet of een model nieuwe problemen even goed oplost als een mens.
+
+Bron: https://www.aireport.nl/p/nieuwe-chatgpt-astra-scoort-goed-op-papier-slecht-in-de-praktijk
+AI Report Podcast · 2026-11-19. Nederlandstalige podcast, gemaakt met AI.</itunes:summary>
+      <pubDate>Thu, 19 Nov 2026 12:10:52 GMT</pubDate>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1GCta4yuWQIZs4Aa_46r3KXhyOWInRwR-&amp;export=download&amp;confirm=t" length="23389149" type="audio/mp4"/>
+      <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+
+      <guid isPermaLink="false">1GCta4yuWQIZs4Aa_46r3KXhyOWInRwR-</guid>
+    </item>
     <item>
       <title>Zeven promptgewoontes die je voor 1 januari wilt afleren</title>
       <description>🗞️ Het belangrijkste nieuwsWat NVIDIA zonder Jensen Huang betekent voor AIJensen Huang is sinds vorige week donderdag weg bij NVIDIA, het bedrijf dat de chips maakt waarop vrijwel alle grote AI-modellen worden getraind.
